@@ -24,7 +24,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: Download Resume
         altText: ''
         url: /
         showIcon: false
