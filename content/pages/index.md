@@ -9,9 +9,17 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      One years of experience in Salesforce Solutions Engineer & IT Business
+      Analyst as well as software product requirement and development. Strong
+      ability to identify business needs, translate high level requirements into
+      application requirements. Extensive experience in product management,
+      adept at crafting product requirements that enhance business value with a
+      strong focus on user needs. Possesses strong critical thinking, teamwork
+      with strives for growth, facilitate product development to success and
+      being a team influencer. With a blend of creativity and a can-do attitude,
+      I am excited to explore new opportunities which involves Product Owner,
+      Product/Project Management, a professional working environment where I can
+      demonstrate my enthusiastic personality and develop my career.
     actions:
       - label: Get started
         altText: ''
