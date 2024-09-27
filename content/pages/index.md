@@ -33,7 +33,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Mo
+      - label: More Details
         altText: ''
         url: /
         showIcon: true
