@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
+    text: >+
       One years of experience in Salesforce Solutions Engineer & IT Business
       Analyst as well as software product requirement and development. Strong
       ability to identify business needs, translate high level requirements into
@@ -20,6 +20,9 @@ sections:
       I am excited to explore new opportunities which involves Product Owner,
       Product/Project Management, a professional working environment where I can
       demonstrate my enthusiastic personality and develop my career.
+
+
+
     actions:
       - label: Get started
         altText: ''
