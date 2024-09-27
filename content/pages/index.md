@@ -7,7 +7,7 @@ sections:
       text: Nhung Vo
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       One years of experience in Salesforce Solutions Engineer & IT Business
       Analyst as well as software product requirement and development. Strong
