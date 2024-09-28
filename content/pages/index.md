@@ -126,7 +126,7 @@ sections:
       - title: Trailhead by Salesforce
         subtitle: Nov 2023 - Present
         text: |
-          Salesforce Administrator: Sales Cloud, Services Cloud
+          Salesforce Administrator/ Four Start Ranger
         image:
           url: /images/icon3.svg
           altText: Featured icon three
