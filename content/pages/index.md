@@ -239,7 +239,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: ACHIEVEMENTS
       color: text-dark
       styles:
         self:
