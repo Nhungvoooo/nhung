@@ -69,7 +69,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goe
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Thu Khoa Nghia High School For The Gifted
