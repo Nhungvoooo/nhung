@@ -7,7 +7,7 @@ sections:
       text: Nhung Vo
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: Based on Ho Chi Minh City
     text: >+
       ###### *One year of experience in Salesforce Solutions Engineer & IT
       Business Analyst and software product requirement and development. Strong
