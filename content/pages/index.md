@@ -222,6 +222,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 400
     type: FeaturedPostsSection
     hoverEffect: move-up
     title:
