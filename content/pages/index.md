@@ -281,6 +281,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+      url: /images/Po.01.jpg
   - type: GenericSection
     title:
       text: Generic section with a video
