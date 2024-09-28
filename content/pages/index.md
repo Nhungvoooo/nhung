@@ -101,7 +101,7 @@ sections:
       - title: >-
           Ho Chi Minh City University of Foreign Languages and Information
           Technology
-        subtitle: 'July 2019 - '
+        subtitle: July 2019 - May 2023
         text: |
           International Business, Bachelor of Business Administration - BBA
         image:
