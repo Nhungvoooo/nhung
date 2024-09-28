@@ -65,7 +65,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "",
             "altText": "Sign up",
             "url": "/",
             "icon": "arrowRight",
