@@ -73,7 +73,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Thu Khoa Nghia High School For The Gifted
-        subtitle: ''
+        subtitle: 'Aug 2013 - '
         text: |
           High School Diploma
         actions: []
