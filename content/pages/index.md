@@ -73,7 +73,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Thu Khoa Nghia High School For The Gifted
-        subtitle: Numbers Done
+        subtitle: High School Diploma
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
