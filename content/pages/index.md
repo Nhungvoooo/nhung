@@ -105,7 +105,7 @@ sections:
         text: |
           International Business, Bachelor of Business Administration - BBA
         image:
-          url: /images/icon2.svg
+          url: /images/logo (1).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
