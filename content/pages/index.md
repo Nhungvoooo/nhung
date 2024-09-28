@@ -226,6 +226,9 @@ sections:
       type: TitleBlock
       text: MY EXPERIENCES
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
