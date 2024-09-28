@@ -101,7 +101,7 @@ sections:
       - title: HCMC University of Foreign Languages - Information Technology
         subtitle: July 2019 - May 2023
         text: |
-          International Business, Bachelor of Business Administration - BBA
+          International Business - BBA
         image:
           url: /images/logo (1).png
           altText: Featured icon two
