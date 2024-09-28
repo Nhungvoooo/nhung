@@ -98,9 +98,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: >-
-          Ho Chi Minh City University of Foreign Languages- Information
-          Technology
+      - title: HCMC University of Foreign Languages- Information Technology
         subtitle: July 2019 - May 2023
         text: |
           International Business, Bachelor of Business Administration - BBA
