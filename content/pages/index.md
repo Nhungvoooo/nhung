@@ -223,6 +223,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 400
+        fontStyle: italic
     type: FeaturedPostsSection
     hoverEffect: move-up
     title:
