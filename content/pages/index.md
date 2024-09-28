@@ -125,10 +125,8 @@ sections:
         type: FeaturedItem
       - title: Trailhead by Salesforce
         subtitle: Nov 2023 - Present
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Salesforce Administrator: Sales Cloud, Services Cloud
         image:
           url: /images/icon3.svg
           altText: Featured icon three
