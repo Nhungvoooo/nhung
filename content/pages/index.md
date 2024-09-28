@@ -229,6 +229,9 @@ sections:
       styles:
         self:
           textAlign: center
+    subtitle: >-
+      "The journey of a thousand miles begins with one step, and every step in
+      your work journey shapes who you become."
   - title: Divider
     colors: bg-light-fg-dark
     styles:
