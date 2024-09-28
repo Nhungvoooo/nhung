@@ -66,7 +66,7 @@
     "secondaryLinks": [
         {
             "label": "Linkedin",
-            "altText": "Sign up",
+            "altText": "Linkedin",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
