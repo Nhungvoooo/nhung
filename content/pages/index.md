@@ -280,7 +280,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: ACHIVEMENTS
       color: text-primary
       styles:
         self:
