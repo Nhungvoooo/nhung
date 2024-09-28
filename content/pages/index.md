@@ -99,7 +99,7 @@ sections:
             self:
               borderRadius: x-large
       - title: >-
-          Ho Chi Minh City University of Foreign Languages and Information
+          Ho Chi Minh City University of Foreign Languages- Information
           Technology
         subtitle: July 2019 - May 2023
         text: |
