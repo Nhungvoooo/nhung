@@ -15,7 +15,7 @@ featuredImage:
       borderRadius: large
   type: ImageBlock
 bottomSections:
-  - title: Divider
+  - title: HP Logistics JSC
     colors: bg-light-fg-dark
     styles:
       self:
