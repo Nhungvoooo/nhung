@@ -98,7 +98,9 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: ''
+      - title: >-
+          Ho Chi Minh City University of Foreign Languages and Information
+          Technology
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
