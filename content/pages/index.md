@@ -222,10 +222,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-    title:
-      type: TitleBlock
-      text: This Is A Big Headline
-      color: text-primary
   - title: Divider
     colors: bg-light-fg-dark
     styles:
