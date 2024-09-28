@@ -26,7 +26,7 @@ sections:
       - label: Download Resume
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
