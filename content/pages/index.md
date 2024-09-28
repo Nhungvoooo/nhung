@@ -124,7 +124,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Trailhead by Salesforce
-        subtitle: Faster
+        subtitle: Nov 2023 - Present
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
