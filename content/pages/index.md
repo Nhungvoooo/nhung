@@ -9,17 +9,18 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      #### One year of experience in Salesforce Solutions Engineer & IT Business
-      Analyst and software product requirement and development. Strong ability
-      to identify business needs, and translate high-level requirements into
-      application requirements. Extensive experience in product management,
+      #### *One year of experience in Salesforce Solutions Engineer & IT
+      Business Analyst and software product requirement and development. Strong
+      ability to identify business needs, and translate high-level requirements
+      into application requirements. Extensive experience in product management,
       adept at crafting product requirements that enhance business value with a
       strong focus on user needs. Possesses strong critical thinking, and
       teamwork with strives for growth, facilitates product development to
       success, and is a team influencer. With a blend of creativity and a can-do
       attitude, I am excited to explore new opportunities that involve Product
       Owner, Product/Project Management, and a professional working environment
-      where I can demonstrate my enthusiastic personality and develop my career.
+      where I can demonstrate my enthusiastic personality and develop my
+      career.*
 
     actions:
       - label: Download Resume
