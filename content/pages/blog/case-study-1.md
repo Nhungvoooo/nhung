@@ -15,16 +15,6 @@ featuredImage:
       borderRadius: large
   type: ImageBlock
 bottomSections:
-  - title: HP Logistics JSC
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - items:
       - title: About Company
         tagline: This is the tagline
