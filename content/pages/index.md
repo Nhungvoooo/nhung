@@ -63,7 +63,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: EDUCATION
       color: text-dark
       styles:
         self:
