@@ -101,7 +101,7 @@ sections:
       - title: >-
           Ho Chi Minh City University of Foreign Languages and Information
           Technology
-        subtitle: The Job Stuff
+        subtitle: 'International Business, BBA'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
