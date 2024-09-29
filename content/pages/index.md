@@ -328,6 +328,13 @@ sections:
       type: ImageBlock
       url: /images/1715852439811.jpg
       altText: Fun feature preview
+      styles:
+        self:
+          padding:
+            - pt-5
+            - pl-5
+            - pb-5
+            - pr-5
     badge:
       type: Badge
       label: ''
