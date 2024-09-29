@@ -692,11 +692,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Phone: 0934 092 990
+      **Phone:** 0934 092 990
 
-      Email: <Nhungvo.works@gmail.com>
+      **Email:** <Nhungvo.works@gmail.com>
 
-      LinkedIn: [Nhung Vo](www.linkedin.com/in/nhungvoooo)
+      **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
     media:
       fields:
         - name: name
