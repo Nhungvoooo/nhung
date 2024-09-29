@@ -336,10 +336,10 @@ sections:
             - pb-20
             - pr-20
           margin:
-            - mt-20
-            - ml-20
-            - mb-20
-            - mr-20
+            - mt-28
+            - ml-28
+            - mb-28
+            - mr-28
     badge:
       type: Badge
       label: ''
