@@ -7,7 +7,7 @@ excerpt: >-
   Through the IIBA™ Business Analysis Certification coaching, give a valuable
   insights into methodologies such as BA techniques, stakeholder analysis, and
   business requirements. With a strong focus on the Business Analysis Body of
-  Knowledge (BABOK) V3, the certification has equipped me with a deeper
+  Knowledge (BABOK) V3, the certification has equipped with a deeper
   understanding of facilitating stakeholder communication, conducting strategic
   analyses to align solutions, and evaluating the effectiveness of implemented
   solutions.
