@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: What is a Design System
+title: The IIBA™ Business Analysis Certification
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
