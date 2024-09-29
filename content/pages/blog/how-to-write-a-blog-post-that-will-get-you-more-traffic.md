@@ -2,7 +2,7 @@
 type: PostLayout
 title: "Salesforce Administrator\_ \_ Certificate of Achievement"
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
-date: '2023-07-18'
+date: ''
 excerpt: >-
   Achievement in Scientific Contributions and Achievement Awards at Ho Chi Minh
   City University of Foreign Languages and Information Technology in 2023. The
