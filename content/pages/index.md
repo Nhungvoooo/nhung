@@ -687,7 +687,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Let's collaporations
+      text: Let's Collaborate Together
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
