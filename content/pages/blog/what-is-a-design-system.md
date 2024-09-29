@@ -4,9 +4,16 @@ title: The IIBA™ Business Analysis Certification
 slug: what-is-a-design-system
 date: '2024-03-14'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Through the IIBA™ Business Analysis Certification coaching. This experience
+  gave me valuable insights into methodologies such as BA techniques,
+  stakeholder analysis, and business requirements. Throughout the coaching with
+  a strong focus on the Business Analysis Body of Knowledge (BABOK) V3. This
+  comprehensive guide covers essential areas such as elicitation and
+  collaboration, requirements lifecycle management, strategy analysis, and
+  solution evaluation. The certification has equipped me with a deeper
+  understanding of facilitating stakeholder communication, conducting strategic
+  analyses to align solutions with business goals, and evaluating the
+  effectiveness of implemented solutions.
 featuredImage:
   url: /images/Anh 02.jpeg
   altText: Thumbnail
