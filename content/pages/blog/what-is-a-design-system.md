@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: The IIBA™ Business Analysis Certification
+title: The IIBA™ Business Analysis Certification of Achievement
 slug: what-is-a-design-system
 date: '2024-03-14'
 excerpt: >-
