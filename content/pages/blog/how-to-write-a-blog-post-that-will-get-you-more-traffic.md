@@ -4,10 +4,10 @@ title: "Salesforce Administrator\_ \_ Certificate of Achievement"
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-09-18'
 excerpt: >-
-  Achievement in Scientific Contributions and Achievement Awards at Ho Chi Minh
-  City University of Foreign Languages and Information Technology in 2023. The
-  research topic was published in the 5th International Conference on Business
-  2023.
+  The certificate of Achievement recognizes the successful completion of the
+  Salesforce Administrator Course by TalentForce. This comprehensive program
+  equips individuals with the essential skills and knowledge needed to
+  effectively manage and optimize Salesforce environments.
 featuredImage:
   url: /images/Anh 3.jpg
   altText: Thumbnail
