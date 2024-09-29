@@ -3,9 +3,10 @@ title: Science Research Achivement
 slug: five-tips-for-starting-a-startup
 date: '2024-01-08'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Achievement in Science Research. The article has been published by Springer:
+  Disruptive Technology and Business Continuity 2024 series. This study delves
+  into the factors influencing the adoption of smart contracts in logistics
+  domain, highlighting their potential to transform business practices.
 featuredImage:
   url: /images/Anh 1.jpeg
   altText: Thumbnail
