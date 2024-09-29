@@ -331,10 +331,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-20
-            - pl-20
-            - pb-20
-            - pr-20
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
           margin:
             - mt-28
             - ml-28
