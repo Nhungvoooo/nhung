@@ -1,7 +1,7 @@
 ---
 title: Science Research Achivement
 slug: five-tips-for-starting-a-startup
-date: '0002-01-08'
+date: '2024-01-08'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
