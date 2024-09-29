@@ -4,9 +4,10 @@ title: Achievement in Scientific Contributions and Achievement Awards
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-07-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Achievement in Scientific Contributions and Achievement Awards at Ho Chi Minh
+  City University of Foreign Languages and Information Technology in 2023. The
+  research topic was published in the 5th International Conference on Business
+  2023.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
