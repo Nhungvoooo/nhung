@@ -306,7 +306,7 @@ sections:
       type: TitleBlock
       text: Volunteering
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Member of iVolunteer Vietnam
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
