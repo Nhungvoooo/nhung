@@ -9,7 +9,7 @@ excerpt: >-
   research topic was published in the 5th International Conference on Business
   2023.
 featuredImage:
-  url: /images/Anh 02.jpeg
+  url: /images/Anh 3.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
