@@ -62,4 +62,4 @@ styles:
     flexDirection: row
 author: content/data/person4.json
 ---
-Achievement in Scientific Contributions and Achievement Awards at Ho Chi Minh City University of Foreign Languages- Information Technology in 2023. The research topic was published in the 5th International Conference on Business 2023 & Springer Proceedings in Business and Economics 2024.
+The certificate of Achievement recognizes the successful completion of the Salesforce Administrator Course by TalentForce. This comprehensive program equips individuals with the essential skills and knowledge needed to effectively manage and optimize Salesforce environments.
