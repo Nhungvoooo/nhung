@@ -335,6 +335,11 @@ sections:
             - pl-20
             - pb-20
             - pr-20
+          margin:
+            - mt-20
+            - ml-20
+            - mb-20
+            - mr-20
     badge:
       type: Badge
       label: ''
