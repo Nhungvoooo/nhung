@@ -2,7 +2,7 @@
 type: PostLayout
 title: The IIBA™ Business Analysis Certification
 slug: what-is-a-design-system
-date: ''
+date: '0002-02-14'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
