@@ -451,10 +451,10 @@ sections:
                 - mb-1
                 - mr-1
               padding:
-                - pt-1
-                - pl-1
-                - pb-1
-                - pr-1
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
