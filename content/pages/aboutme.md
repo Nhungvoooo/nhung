@@ -150,7 +150,7 @@ sections:
         self:
           textAlign: center
       type: Badge
-    elementId: ''
+    elementId: EducationID
     variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
