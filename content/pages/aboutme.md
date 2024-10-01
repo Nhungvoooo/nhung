@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /
+slug: /Aboutme
 sections:
   - type: GenericSection
     title:
