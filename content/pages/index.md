@@ -240,7 +240,7 @@ sections:
       your work journey shapes who you become."
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Business Development
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
