@@ -540,7 +540,7 @@ sections:
     items:
       - title: 'Let''s Collaborate Together,'
         tagline: CONTACT ME
-        subtitle: Based on HCMC
+        subtitle: 'Based on HCMC, Vietnam'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
