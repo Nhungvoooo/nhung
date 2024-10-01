@@ -495,7 +495,7 @@ sections:
     text: ''
     actions: []
     media:
-      url: /images/hero2.svg
+      url: /images/IMG_7059 2-min.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
