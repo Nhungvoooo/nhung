@@ -14,16 +14,17 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/pricing",
+            "url": "/Aboutme",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Features page"
         },
         {
             "label": "Education",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/EducationID",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -60,7 +61,40 @@
                 },
                 {
                     "type": "Link",
-                    "label": "See Tutorials",
+                    "label": "Achievement",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Volunteering",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Publication",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Contact",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
