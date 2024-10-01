@@ -494,6 +494,11 @@ sections:
           - pl-40
           - pb-40
           - pr-40
+        margin:
+          - mt-24
+          - ml-24
+          - mb-24
+          - mr-24
       subtitle:
         textAlign: center
   - title:
