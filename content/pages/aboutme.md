@@ -548,7 +548,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/IMG_7800.jpg
+          url: /images/IMG_7800 copy.jpg
           altText: Maria Walters
           styles:
             self:
