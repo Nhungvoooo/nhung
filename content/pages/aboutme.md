@@ -536,7 +536,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: Feel free to drop a message
+    subtitle: I’d love to hear from you
     items:
       - title: 'Let''s Collaborate Together,'
         tagline: CONTACT ME
