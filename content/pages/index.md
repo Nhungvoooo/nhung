@@ -327,7 +327,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-        tagline: gf
+        tagline: ' Nov, 2024 - Presents'
     actions:
       - type: Button
         label: Get started
