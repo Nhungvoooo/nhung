@@ -446,10 +446,10 @@ sections:
             self:
               borderRadius: medium
               margin:
-                - mt-8
-                - ml-8
-                - mb-8
-                - mr-8
+                - mt-1
+                - ml-1
+                - mb-1
+                - mr-1
               padding:
                 - pt-1
                 - pl-1
