@@ -84,5 +84,15 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "styles": {
+        "self": {
+            "margin": [
+                "mt-10",
+                "ml-10",
+                "mb-10",
+                "mr-10"
+            ]
+        }
+    }
 }
