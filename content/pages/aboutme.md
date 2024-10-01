@@ -540,7 +540,7 @@ sections:
     items:
       - title: 'Let''s Collaborate Together,'
         tagline: CONTACT ME
-        subtitle: 'Maria Walters, Company'
+        subtitle: Based on HCMC
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
