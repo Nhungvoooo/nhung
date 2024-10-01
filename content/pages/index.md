@@ -294,7 +294,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Salesforce Solutions Engineer
-        subtitle: Faster
+        subtitle: AFR Cloud Computing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
