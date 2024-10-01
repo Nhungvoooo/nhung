@@ -77,15 +77,6 @@
     "secondaryLinks": [
         {
             "label": "Linkedin",
-            "altText": "Linkedin",
-            "url": "/www.linkedin.com/in/nhungvoooo",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Linkedin",
             "url": "www.linkedin.com/in/nhungvoooo",
             "icon": "arrowRight",
             "iconPosition": "right",
