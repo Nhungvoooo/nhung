@@ -603,10 +603,12 @@ sections:
           make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          **Phone:** 0934 092 990
+
+          **Email:** <Nhungvo.works@gmail.com>
+
+          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
