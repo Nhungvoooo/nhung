@@ -536,7 +536,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: Don't hesitate to say hello !
+    subtitle: Don't hesitate to say hello!
     items:
       - title: 'Let''s Collaborate Together,'
         tagline: CONTACT ME
