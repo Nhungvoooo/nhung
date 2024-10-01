@@ -524,10 +524,10 @@ sections:
           - mb-0
           - mr-0
         padding:
-          - pt-24
-          - pl-24
-          - pb-24
-          - pr-24
+          - pt-64
+          - pl-64
+          - pb-64
+          - pr-64
     type: GenericSection
   - title:
       text: Business Consulting
