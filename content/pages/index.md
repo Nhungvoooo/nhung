@@ -302,10 +302,15 @@ sections:
       - type: FeaturedItem
         title: Salesforce Solutions Engineer
         subtitle: AFR Cloud Computing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   Collaborate with business stakeholders to analyze requirements and
+          translate them into effective Salesforce solutions that align with
+          strategic goals.
+
+
+          *   Design, configure, and customize Salesforce applications to
+          optimize user experience and operational efficiency.
+
         image:
           type: ImageBlock
           url: /images/icon3.svg
