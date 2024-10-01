@@ -327,7 +327,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/Cấp 3.jpg
+      - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
         styles:
