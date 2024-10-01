@@ -4,12 +4,12 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "*\"Do what you love,*\n\n*and you will never work a day in your life.\"* \n\n— Confucius\n",
     "primaryLinks": {
         "title": "Nhung Vo",
         "links": [
             {
-                "label": "Features",
+                "label": "Home",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Education",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,7 +26,7 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Experiences",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -37,10 +37,10 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": ".",
         "links": [
             {
-                "label": "Careers",
+                "label": "Achievement",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
@@ -49,12 +49,34 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Volunteering",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Publications",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Contact me",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
@@ -85,25 +107,8 @@
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "legalLinks": [],
+    "copyrightText": "*Thank you for taking the time to explore my work. I look forward to the opportunity to collaborate and bring innovative ideas to life.*\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
