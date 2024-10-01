@@ -274,10 +274,15 @@ sections:
       - type: FeaturedItem
         title: Business Analyst
         subtitle: 'Vietlink Global, LLC'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   Conduct in-depth analysis of logistics operations to identify
+          inefficiencies and recommend actionable solutions that improve
+          performance and reduce costs.
+
+
+          *   Collaborate with cross-functional teams to gather and document
+          business requirements, ensuring alignment with organizational goals.
+
         image:
           type: ImageBlock
           url: /images/icon2.svg
