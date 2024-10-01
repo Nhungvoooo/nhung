@@ -565,7 +565,7 @@ sections:
           - pl-0
           - pb-0
           - pr-0
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         justifyContent: center
     type: GenericSection
   - title: Divider
