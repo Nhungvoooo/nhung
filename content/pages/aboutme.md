@@ -319,7 +319,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Certifications
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
