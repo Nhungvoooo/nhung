@@ -152,7 +152,7 @@ sections:
       type: Badge
     elementId: EducationID
     variant: toggle-list
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
