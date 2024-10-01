@@ -333,10 +333,10 @@ sections:
         styles:
           self:
             margin:
-              - mt-20
-              - ml-20
-              - mb-20
-              - mr-20
+              - mt-96
+              - ml-96
+              - mb-96
+              - mr-96
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
