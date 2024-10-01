@@ -568,7 +568,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: 'Let''s Collaborate Together,'
+      - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'John Doe, Company'
         text: >-
