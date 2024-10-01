@@ -425,7 +425,8 @@ sections:
           INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY IN
           VIETNAMESE BUSINESSES
         text: >+
-          1.  **Released in the 5th International Conference on Business 2023.**
+          1.  **Released in the 5th International Conference on Business - ICB
+          2023.**
           [**(Details)**](https://drive.google.com/file/d/1V2D_XUAtZnVvgEoAJOKmuNAp6hWgUFn5/view)
 
 
