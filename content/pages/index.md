@@ -445,6 +445,11 @@ sections:
           styles:
             self:
               borderRadius: medium
+              margin:
+                - mt-8
+                - ml-8
+                - mb-8
+                - mr-8
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
