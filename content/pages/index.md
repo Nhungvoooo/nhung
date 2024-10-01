@@ -327,6 +327,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+        tagline: gf
     actions:
       - type: Button
         label: Get started
