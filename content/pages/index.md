@@ -284,7 +284,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/icon3.svg
           altText: Featured icon two
           elementId: ''
         actions: []
