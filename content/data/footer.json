@@ -40,6 +40,15 @@
         "title": "",
         "links": [
             {
+                "label": "Achievement",
+                "altText": "careers page",
+                "url": "/careers",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
                 "label": "Volunteering",
                 "url": "/blog",
                 "icon": "arrowRight",
@@ -57,15 +66,6 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
-            },
-            {
-                "label": "Achievement",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
