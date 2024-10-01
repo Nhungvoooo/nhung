@@ -330,6 +330,13 @@ sections:
       - url: /images/Cấp 3.jpg
         altText: Vise logo
         type: ImageBlock
+        styles:
+          self:
+            margin:
+              - mt-20
+              - ml-20
+              - mb-20
+              - mr-20
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
