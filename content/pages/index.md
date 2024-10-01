@@ -490,10 +490,10 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-32
-          - pl-32
-          - pb-32
-          - pr-32
+          - pt-40
+          - pl-40
+          - pb-40
+          - pr-40
       subtitle:
         textAlign: center
   - title:
