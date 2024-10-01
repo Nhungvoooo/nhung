@@ -235,7 +235,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: >-
+      "The journey of a thousand miles begins with one step, and every step in
+      your work journey shapes who you become."
     items:
       - type: FeaturedItem
         title: 500k
