@@ -539,7 +539,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: 'Let''s Collaborate Together,'
-        tagline: Testimonial 1
+        tagline: CONTACT ME
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
