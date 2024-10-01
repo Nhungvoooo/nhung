@@ -142,16 +142,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: Qualifications
       color: text-primary
@@ -160,7 +151,7 @@ sections:
           textAlign: center
       type: Badge
     elementId: ''
-    variant: three-col-grid
+    variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -172,60 +163,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 400
-        fontStyle: italic
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+  - type: FeaturedItemsSection
     title:
       type: TitleBlock
       text: MY EXPERIENCES
@@ -236,6 +174,128 @@ sections:
     subtitle: >-
       "The journey of a thousand miles begins with one step, and every step in
       your work journey shapes who you become."
+    items:
+      - type: FeaturedItem
+        title: Business Development
+        subtitle: HP Logistics JSC
+        text: >+
+          *   Conduct comprehensive market research to identify new business
+          opportunities and emerging trends in the logistics industry. 
+
+
+          *   Develop strong relationships with clients, suppliers, and
+          stakeholders to enhance collaboration and drive business growth.
+
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+        tagline: 'Dec, 2022 - Dec 2023'
+      - type: FeaturedItem
+        title: Business Analyst
+        subtitle: 'Vietlink Global, LLC'
+        text: >+
+          *   Conduct in-depth analysis of logistics operations to identify
+          inefficiencies and recommend actionable solutions that improve
+          performance and reduce costs. Collaborate with cross-functional teams
+          to gather and document business requirements, ensuring alignment with
+          organizational goals.
+
+        image:
+          type: ImageBlock
+          url: /images/icon3.svg
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        tagline: Jan 2024 - Presents
+      - type: FeaturedItem
+        title: Salesforce Solutions Engineer
+        subtitle: AFR Cloud Computing
+        text: >+
+          *   Collaborate with business stakeholders to analyze requirements and
+          translate them into effective Salesforce solutions that align with
+          strategic goals.
+
+
+          *   Design, configure, and customize Salesforce applications to
+          optimize user experience and operational efficiency.
+
+        image:
+          type: ImageBlock
+          url: /images/icon2.svg
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        tagline: 'Nov, 2023 - Presents'
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
@@ -268,6 +328,37 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+  - subtitle: Award winning enterprises trust us
+    images:
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/wellster-logo.svg
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/vise-logo.svg
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/telus-logo.svg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/rangle-logo.svg
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -325,6 +416,72 @@ sections:
     styles:
       self:
         alignItems: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Publications
+        tagline: Feature 1
+        subtitle: Increase your reach
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Social Media Management
       color: text-dark

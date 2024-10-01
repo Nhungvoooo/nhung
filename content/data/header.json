@@ -84,5 +84,21 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "styles": {
+        "self": {
+            "margin": [
+                "mt-0",
+                "ml-0",
+                "mb-0",
+                "mr-0"
+            ],
+            "padding": [
+                "pt-1",
+                "pl-1",
+                "pb-1",
+                "pr-1"
+            ]
+        }
+    }
 }
