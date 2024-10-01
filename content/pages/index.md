@@ -9,19 +9,18 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      One years of experience in Salesforce Solutions Engineer & IT Business
-      Analyst as well as software product requirement and development. Strong
-      ability to identify business needs, translate high level requirements into
-      application requirements. Extensive experience in product management,
+      ###### *One year of experience in Salesforce Solutions Engineer & IT
+      Business Analyst and software product requirement and development. Strong
+      ability to identify business needs, and translate high-level requirements
+      into application requirements. Extensive experience in product management,
       adept at crafting product requirements that enhance business value with a
-      strong focus on user needs. Possesses strong critical thinking, teamwork
-      with strives for growth, facilitate product development to success and
-      being a team influencer. With a blend of creativity and a can-do attitude,
-      I am excited to explore new opportunities which involves Product Owner,
-      Product/Project Management, a professional working environment where I can
-      demonstrate my enthusiastic personality and develop my career.
-
-
+      strong focus on user needs. Possesses strong critical thinking, and
+      teamwork with strives for growth, facilitates product development to
+      success, and is a team influencer. With a blend of creativity and a can-do
+      attitude, I am excited to explore new opportunities that involve Product
+      Owner, Product/Project Management, and a professional working environment
+      where I can demonstrate my enthusiastic personality and develop my
+      career.*
 
     actions:
       - label: Download Resume
@@ -48,7 +47,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'Hello, My name is'
       color: text-primary
       type: Badge
     elementId: ''
@@ -64,21 +63,19 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: MY EDUCATION
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Thu Khoa Nghia High School For The Gifted
+        subtitle: Aug 2013 - Aug 2017
+        text: |
+          High School Diploma
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -97,18 +94,16 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/Cấp 3.jpg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: HCMC University of Foreign Languages - Information Technology
+        subtitle: July 2019 - May 2023
+        text: |
+          International Business - BBA
         image:
-          url: /images/icon2.svg
+          url: /images/logo (1).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -126,14 +121,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Trailhead by Salesforce
+        subtitle: Nov 2023 - Present
+        text: |
+          Salesforce Administrator/ Four Start Ranger
         image:
-          url: /images/icon3.svg
+          url: /images/Anh logoo trailhead.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -160,7 +153,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Qualifications
       color: text-primary
       styles:
         self:
@@ -227,8 +220,54 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 400
+        fontStyle: italic
     type: FeaturedPostsSection
     hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: MY EXPERIENCES
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: >-
+      "The journey of a thousand miles begins with one step, and every step in
+      your work journey shapes who you become."
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: ACHIEVEMENTS
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/what-is-a-design-system.md
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    hoverEffect: thin-underline
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -239,97 +278,53 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
+      text: Volunteering
+      color: text-dark
+    subtitle: Member of iVolunteer Vietnam
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
+      type: ImageBlock
+      url: /images/1715852439811.jpg
+      altText: Fun feature preview
       styles:
         self:
           padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
+          margin:
+            - mt-36
+            - ml-36
+            - mb-36
+            - mr-36
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
+        alignItems: center
   - title:
       text: Social Media Management
       color: text-dark
@@ -696,15 +691,16 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Let's Collaborate Together
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: |
+      **Phone:** 0934 092 990
+
+      **Email:** <Nhungvo.works@gmail.com>
+
+      **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
     media:
       fields:
         - name: name
@@ -742,14 +738,14 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Send
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Contact me
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark

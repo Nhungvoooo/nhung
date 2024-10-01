@@ -1,14 +1,18 @@
 ---
 type: PostLayout
-title: What is a Design System
+title: The IIBA™ Business Analysis Certification of Achievement
 slug: what-is-a-design-system
-date: '2023-02-14'
+date: '2024-03-14'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Through the IIBA™ Business Analysis Certification coaching, give a valuable
+  insights into methodologies such as BA techniques, stakeholder analysis, and
+  business requirements. With a strong focus on the Business Analysis Body of
+  Knowledge (BABOK) V3, the certification has equipped with a deeper
+  understanding of facilitating stakeholder communication, conducting strategic
+  analyses to align solutions, and evaluating the effectiveness of implemented
+  solutions.
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/Anh 02.jpeg
   altText: Thumbnail
   type: ImageBlock
   styles:
