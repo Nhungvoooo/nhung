@@ -566,6 +566,7 @@ sections:
           - pb-0
           - pr-0
         flexDirection: col-reverse
+        justifyContent: center
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
