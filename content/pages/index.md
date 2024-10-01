@@ -269,7 +269,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Business Analyst
-        subtitle: The Job Stuff
+        subtitle: 'Vietlink Global, LLC'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
