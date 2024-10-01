@@ -242,13 +242,11 @@ sections:
       - type: FeaturedItem
         title: Business Development
         subtitle: HP Logistics JSC
-        text: >+
+        text: >
           Conduct comprehensive market research to identify new business
           opportunities and emerging trends in the logistics industry. Develop
           and maintain strong relationships with clients, suppliers, and
-          stakeholders to enhance collaboration and drive business growth,
-          resulting in a 20% increase in revenue over 6 months.
-
+          stakeholders to enhance collaboration and drive business growth.
         image:
           type: ImageBlock
           url: /images/icon1.svg
