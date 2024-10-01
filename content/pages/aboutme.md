@@ -599,7 +599,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Let's Collaborate Together
-        tagline: Testimonial 3
+        tagline: CONTACT ME
         subtitle: 'Maria Walters, Company'
         text: |
           **Phone:** 0934 092 990
