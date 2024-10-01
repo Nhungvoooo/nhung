@@ -600,7 +600,7 @@ sections:
         type: FeaturedItem
       - title: Let's Collaborate Together
         tagline: CONTACT ME
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Based on HCMC, Vietnam'
         text: |
           **Phone:** 0934 092 990
 
