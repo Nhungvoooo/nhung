@@ -299,7 +299,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
-        tagline: Feb 202
+        tagline: Jan 2024 - Presents
       - type: FeaturedItem
         title: Salesforce Solutions Engineer
         subtitle: AFR Cloud Computing
