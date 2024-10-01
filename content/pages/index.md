@@ -421,7 +421,9 @@ sections:
       - type: FeaturedItem
         title: Publications
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: >-
+          INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY IN
+          VIETNAMESE BUSINESSES
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
