@@ -489,6 +489,11 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-32
+          - pl-32
+          - pb-32
+          - pr-32
       subtitle:
         textAlign: center
   - title:
