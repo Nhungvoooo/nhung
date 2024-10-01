@@ -536,7 +536,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: I’d love to hear from you
+    subtitle: I’d love to hear from you. Have a nice day !
     items:
       - title: 'Let''s Collaborate Together,'
         tagline: CONTACT ME
