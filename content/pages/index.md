@@ -450,6 +450,11 @@ sections:
                 - ml-8
                 - mb-8
                 - mr-8
+              padding:
+                - pt-8
+                - pl-8
+                - pb-8
+                - pr-8
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
