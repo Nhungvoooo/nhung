@@ -241,7 +241,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Business Development
-        subtitle: Numbers Done
+        subtitle: HP Logistics
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
