@@ -277,11 +277,9 @@ sections:
         text: >+
           *   Conduct in-depth analysis of logistics operations to identify
           inefficiencies and recommend actionable solutions that improve
-          performance and reduce costs.
-
-
-          *   Collaborate with cross-functional teams to gather and document
-          business requirements, ensuring alignment with organizational goals.
+          performance and reduce costs. Collaborate with cross-functional teams
+          to gather and document business requirements, ensuring alignment with
+          organizational goals.
 
         image:
           type: ImageBlock
