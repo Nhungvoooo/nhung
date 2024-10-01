@@ -288,7 +288,7 @@ sections:
           altText: Featured icon two
           elementId: ''
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
