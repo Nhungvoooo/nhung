@@ -546,6 +546,7 @@ sections:
             - ml-0
             - mb-0
             - mr-0
+          borderRadius: large
     badge:
       label: ''
       color: text-primary
