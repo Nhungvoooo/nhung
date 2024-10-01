@@ -242,10 +242,10 @@ sections:
       - type: FeaturedItem
         title: Business Development
         subtitle: HP Logistics JSC
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          HP Logistics Joint Stock Company is the leading company in Vietnam in
+          international freight forwarding (international freight forwarding),
+          consolidation services (consolidation), and logistics services.
         image:
           type: ImageBlock
           url: /images/icon1.svg
