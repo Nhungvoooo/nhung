@@ -284,7 +284,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/favicon.svg
+          url: /images/letter-n (1).png
           altText: Featured icon two
           elementId: ''
         actions: []
