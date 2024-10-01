@@ -284,7 +284,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/circle-chart.png
+          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
         actions: []
