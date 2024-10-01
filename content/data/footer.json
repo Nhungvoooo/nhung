@@ -107,16 +107,7 @@
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "*Thank you for taking the time to explore my work. I look forward to the opportunity to collaborate and bring innovative ideas to life.*\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
