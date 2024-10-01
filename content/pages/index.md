@@ -50,7 +50,7 @@ sections:
       label: 'Hello, My name is'
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: Home
     colors: bg-light-fg-dark
     styles:
       self:
