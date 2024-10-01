@@ -82,7 +82,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Publications",
+                    "label": "Publication",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
