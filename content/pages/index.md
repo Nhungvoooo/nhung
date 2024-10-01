@@ -505,6 +505,11 @@ sections:
             - pl-0
             - pb-0
             - pr-0
+          margin:
+            - mt-80
+            - ml-80
+            - mb-80
+            - mr-80
     badge:
       label: ''
       color: text-primary
