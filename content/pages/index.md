@@ -519,10 +519,10 @@ sections:
       self:
         alignItems: center
         margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
+          - mt-52
+          - ml-52
+          - mb-52
+          - mr-52
         padding:
           - pt-0
           - pl-0
