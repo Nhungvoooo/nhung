@@ -85,7 +85,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Log i",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
