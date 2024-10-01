@@ -421,65 +421,70 @@ sections:
       - type: FeaturedItem
         title: Publications
         tagline: Feature 1
-        subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: >-
+          INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY IN
+          VIETNAMESE BUSINESSES
+        text: >+
+          1.  **Released in the 5th International Conference on Business - ICB
+          2023.**
+          [**(Details)**](https://drive.google.com/file/d/1V2D_XUAtZnVvgEoAJOKmuNAp6hWgUFn5/view)
+
+
+          2.  **Published in the Springer: Disruptive Technology and Business
+          Continuity 2024**
+          [**(Details)**](https://link.springer.com/book/10.1007/978-981-97-5452-6?sap-outbound-id=6FC73683E8D5C225A3F801BBBE6CF98C4748DF4C\&utm_source=standard\&utm_medium=email\&utm_campaign=000_LAN36_0000019083_Book+author+congrats+NEW\&utm_content=EN_34155_20240903\&mkt-key=F7A1A70A77311EEF99E1D7921D7F483A)
+
+
+          *   **eBook ISBN: 978-981-97-5452-6**
+
+
+          *   **Print ISBN: 978-981-97-5451-9**
+
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/1725606601476.jpeg
           altText: Featured item
           styles:
             self:
               borderRadius: medium
+              margin:
+                - mt-1
+                - ml-1
+                - mb-1
+                - mr-1
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
+              - pt-28
+              - pb-28
+              - pl-28
+              - pr-28
             textAlign: left
             borderRadius: large
             flexDirection: row
             justifyContent: center
-      - type: FeaturedItem
-        title: Business Consulting
-        tagline: Feature 2
-        subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
+    variant: dots-nav
     colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        margin:
+          - mt-20
+          - ml-20
+          - mb-20
+          - mr-20
       subtitle:
         textAlign: center
   - title:
