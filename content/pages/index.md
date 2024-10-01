@@ -315,7 +315,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/favicon.svg
+          url: /images/circle-chart.png
           altText: Featured icon three
           elementId: ''
         actions: []
