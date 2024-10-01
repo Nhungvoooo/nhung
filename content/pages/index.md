@@ -501,10 +501,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-24
-            - pl-24
-            - pb-24
-            - pr-24
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
     badge:
       label: ''
       color: text-primary
