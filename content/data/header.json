@@ -23,7 +23,7 @@
         {
             "label": "Education",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/educations",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
