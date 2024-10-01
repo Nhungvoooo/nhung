@@ -252,7 +252,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/circle-chart.png
+          url: /images/icon3.svg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
