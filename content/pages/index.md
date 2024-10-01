@@ -447,10 +447,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
+              - pt-28
+              - pb-28
+              - pl-28
+              - pr-28
             textAlign: left
             borderRadius: large
             flexDirection: row
