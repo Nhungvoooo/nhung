@@ -315,7 +315,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/hero.svg
+          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
         actions: []
