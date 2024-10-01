@@ -518,6 +518,11 @@ sections:
     styles:
       self:
         alignItems: center
+        margin:
+          - mt-80
+          - ml-80
+          - mb-80
+          - mr-80
     type: GenericSection
   - title:
       text: Business Consulting
