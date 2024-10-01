@@ -328,7 +328,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-        tagline: ' Nov, 2024 - Presents'
+        tagline: 'Nov, 2023 - Presents'
     actions:
       - type: Button
         label: Get started
