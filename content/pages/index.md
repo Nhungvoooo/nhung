@@ -230,7 +230,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: MY EXPERIENCES
       color: text-dark
       styles:
         self:
