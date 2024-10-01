@@ -299,6 +299,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+        tagline: Feb 202
       - type: FeaturedItem
         title: Salesforce Solutions Engineer
         subtitle: AFR Cloud Computing
