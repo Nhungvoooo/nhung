@@ -538,7 +538,7 @@ sections:
     title: null
     subtitle: Don't hesitate to say hello!
     items:
-      - title: 'Let''s Collaborate Together,'
+      - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
         text: |
