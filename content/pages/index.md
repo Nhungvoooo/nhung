@@ -424,7 +424,7 @@ sections:
         subtitle: >-
           INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY IN
           VIETNAMESE BUSINESSES
-        text: >
+        text: >+
           1.  **Released in the 5th International Conference on Business 2023.
           (Details)**
 
@@ -438,14 +438,6 @@ sections:
 
           *   **Print ISBN: 978-981-97-5451-9**
 
-
-          Blockchain technology's recent rapid growth has caused a significant
-          impact on several industries such as logistics, banking, and
-          construction. Since its introduction in 1994, smart contracts based on
-          decentralized ledger data have assisted businesses in resolving
-          several unresolved issues between parties engaged in cooperative
-          activities. Therefore, this study aims to identify the variables
-          influencing firms' intentions to use smart contracts in Vietnam.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
