@@ -498,6 +498,13 @@ sections:
       url: /images/IMG_7059 2-min.jpg
       altText: Fun feature preview
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pt-1
+            - pl-1
+            - pb-1
+            - pr-1
     badge:
       label: ''
       color: text-primary
