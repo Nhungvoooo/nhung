@@ -538,7 +538,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: Let's Collaborate Together
+      - title: 'Let''s Collaborate Together,'
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
