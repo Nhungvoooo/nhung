@@ -610,7 +610,7 @@ sections:
 
           **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_4941.jpg
           altText: Maria Walters
           styles:
             self:
