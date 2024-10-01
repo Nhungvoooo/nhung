@@ -83,17 +83,6 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "LinkedIn",
-            "altText": "LinkedIn",
-            "url": "www.linkedin.com/in/nhungvoooo",
-            "showIcon": true,
-            "icon": "linkedin",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
