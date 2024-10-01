@@ -242,10 +242,13 @@ sections:
       - type: FeaturedItem
         title: Business Development
         subtitle: HP Logistics JSC
-        text: >
-          HP Logistics Joint Stock Company is the leading company in Vietnam in
-          international freight forwarding (international freight forwarding),
-          consolidation services (consolidation), and logistics services.
+        text: >+
+          Conduct comprehensive market research to identify new business
+          opportunities and emerging trends in the logistics industry. Develop
+          and maintain strong relationships with clients, suppliers, and
+          stakeholders to enhance collaboration and drive business growth,
+          resulting in a 20% increase in revenue over 6 months.
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
