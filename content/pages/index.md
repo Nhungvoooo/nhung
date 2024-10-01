@@ -284,7 +284,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/letter-n (1).png
+          url: /images/circled.png
           altText: Featured icon two
           elementId: ''
         actions: []
