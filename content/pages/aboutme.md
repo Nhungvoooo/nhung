@@ -338,10 +338,10 @@ sections:
               - mb-96
               - mr-96
             padding:
-              - pt-96
-              - pl-96
-              - pb-96
-              - pr-96
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
