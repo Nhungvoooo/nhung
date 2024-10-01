@@ -495,10 +495,10 @@ sections:
           - pb-0
           - pr-0
         margin:
-          - mt-24
-          - ml-24
-          - mb-24
-          - mr-24
+          - mt-20
+          - ml-20
+          - mb-20
+          - mr-20
       subtitle:
         textAlign: center
   - title:
