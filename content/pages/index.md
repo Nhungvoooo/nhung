@@ -271,7 +271,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        tagline: 'Dec, 2022 - '
+        tagline: 'Dec, 2022 - Dec 2023'
       - type: FeaturedItem
         title: Business Analyst
         subtitle: 'Vietlink Global, LLC'
