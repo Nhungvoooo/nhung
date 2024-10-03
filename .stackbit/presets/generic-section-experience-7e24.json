@@ -1,0 +1,84 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Experience",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Experience"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "",
+                "text": "",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/IMG_7059 2-min.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Fun feature preview",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "padding": [
+                                "pt-0",
+                                "pl-0",
+                                "pb-0",
+                                "pr-0"
+                            ],
+                            "margin": [
+                                "mt-0",
+                                "ml-0",
+                                "mb-0",
+                                "mr-0"
+                            ],
+                            "borderRadius": "large",
+                            "borderStyle": "none"
+                        }
+                    }
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": null,
+                "colors": "bg-dark-fg-light",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "margin": [
+                            "mt-0",
+                            "ml-0",
+                            "mb-0",
+                            "mr-0"
+                        ],
+                        "padding": [
+                            "pt-0",
+                            "pl-0",
+                            "pb-0",
+                            "pr-0"
+                        ],
+                        "flexDirection": "col-reverse",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-experience-7e24.png"
+        }
+    ]
+}
