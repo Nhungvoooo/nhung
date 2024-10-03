@@ -200,7 +200,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: ''
-        subtitle: $117
+        subtitle: $Science Research on AI
         image:
           type: ImageBlock
           url: /images/IMG_9212.jpg
