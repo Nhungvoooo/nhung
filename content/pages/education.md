@@ -110,8 +110,10 @@ sections:
       color: text-dark
     subtitle: HCMC University of Foreign Languages - Information Technology
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      I want to express my heartfelt gratitude for the Lecturer's time and
+      support during my dissertation defense. I appreciate our valuable
+      discussions and the encouragement you provided throughout this journey.
+      Thank you for believing in my work and for your guidance along the way.
     actions: []
     media:
       type: ImageBlock
