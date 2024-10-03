@@ -272,7 +272,7 @@ sections:
               - pr-0
       - type: ImageBlock
         url: /images/Screenshot 2024-10-03 at 14.19.51.png
-        altText: Python Javacrip
+        altText: Python Javascript
       - type: ImageBlock
         url: /images/Screenshot 2024-10-03 at 14.10.51.png
         altText: Contentful logo
