@@ -242,7 +242,7 @@ sections:
         url: /images/Screenshot 2024-10-03 at 14.16.21.png
       - type: ImageBlock
         url: /images/Screenshot 2024-10-03 at 14.15.25.png
-        altText: Wellster logo
+        altText: Projects Management
         styles:
           self:
             margin:
