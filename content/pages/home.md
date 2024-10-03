@@ -32,7 +32,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: More Details
+      - label: ''
         altText: ''
         url: /
         showIcon: true
