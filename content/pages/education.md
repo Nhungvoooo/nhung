@@ -228,7 +228,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Certifications
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
