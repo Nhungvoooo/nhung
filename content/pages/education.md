@@ -138,14 +138,7 @@ sections:
       of my graduation ceremony. Your presence made this milestone even more
       special for me. Thank you for your unwavering support, encouragement, and
       guidance throughout my academic journey.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/Screenshot 2024-10-03 at 10.35.24.png
