@@ -363,7 +363,7 @@ sections:
       positive impact in the communities we serve.
     actions:
       - type: Link
-        label: iVolunteering Here
+        label: iVolunteering here
         altText: Play
         url: 'https://ivolunteervietnam.com/'
         showIcon: true
