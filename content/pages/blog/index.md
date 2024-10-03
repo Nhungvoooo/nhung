@@ -4,11 +4,7 @@ slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
-  - title:
-      text: Achievements
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
+  - subtitle: ''
     posts: []
     showThumbnail: true
     showExcerpt: true
