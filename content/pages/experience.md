@@ -57,7 +57,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Business Development
+        title: Business Development Intern
         tagline: 'Dec, 2022 - Dec 2023'
         subtitle: HP Logistics JSC
         text: |+
