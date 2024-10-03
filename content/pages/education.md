@@ -187,7 +187,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: Salesforce Administrator - Talent Force
+        subtitle: Salesforce Administrator - TalentForce
         image:
           type: ImageBlock
           url: /images/IMG_0199 copy.jpg
