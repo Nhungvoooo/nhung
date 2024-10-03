@@ -272,7 +272,7 @@ sections:
         altText: ''
         url: /Experience
         showIcon: true
-        icon: arrowRight
+        icon: play
         iconPosition: right
         style: secondary
         elementId: ''
