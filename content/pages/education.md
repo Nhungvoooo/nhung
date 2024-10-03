@@ -245,10 +245,10 @@ sections:
         styles:
           self:
             margin:
-              - mt-40
-              - ml-40
-              - mb-40
-              - mr-40
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
