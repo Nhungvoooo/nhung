@@ -132,7 +132,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: HUFLIT
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
     styles:
