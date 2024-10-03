@@ -133,7 +133,16 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /Education
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       label: Qualifications
       color: text-primary
