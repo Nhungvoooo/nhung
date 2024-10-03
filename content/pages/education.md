@@ -107,52 +107,6 @@ sections:
     title:
       type: TitleBlock
       text: DISSERTATION DEFENSE 2023
-      color: text-light
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/IMG_0195.jpg
-      altText: Fun feature preview
-      styles:
-        self:
-          padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
-          margin:
-            - mt-0
-            - ml-0
-            - mb-0
-            - mr-0
-          borderRadius: large
-          borderStyle: none
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        alignItems: center
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        flexDirection: col-reverse
-        justifyContent: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: DISSERTATION DEFENSE 2023
       color: text-dark
     subtitle: Increase your reach
     text: >
