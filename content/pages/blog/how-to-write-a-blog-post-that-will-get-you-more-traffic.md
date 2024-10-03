@@ -3,7 +3,12 @@ type: PostLayout
 title: Dissertation Defense of Achievement
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-09-18'
-excerpt: "Successfully defended my dissertation titled \"Intention to accept Smart Contracts based-on Blockchain Technology\" at Ho Chi Minh\_ [Institution/University]. The defense involved a comprehensive presentation of my research findings, methodology, and contributions to the field of [Your Field/Area of Study]."
+excerpt: >-
+  Successfully defended my dissertation titled "Intention to accept Smart
+  Contracts based-on Blockchain Technology" at Ho Chi Minh University of Foreign
+  Languages and Information Technology. The defense involved a comprehensive
+  presentation of my research findings, methodology, and contributions to the
+  field of logistics.
 featuredImage:
   url: /images/Anh 3.jpg
   altText: Thumbnail
