@@ -130,7 +130,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Graduation ceremony
+      text: Graduation Ceremony
       color: text-dark
     subtitle: Be in good company
     text: >
