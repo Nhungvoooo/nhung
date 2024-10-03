@@ -90,12 +90,8 @@ sections:
         title: Business Analyst
         tagline: Jan 2024 - Presents
         subtitle: 'Vietlink Global, LLC'
-        text: >+
-          *   Conduct in-depth analysis of logistics operations to identify
-          inefficiencies and recommend actionable solutions that improve
-          performance and reduce costs. Collaborate with cross-functional teams
-          to gather and document business requirements, ensuring alignment with
-          organizational goals.
+        text: |+
+          *
 
         image:
           type: ImageBlock
