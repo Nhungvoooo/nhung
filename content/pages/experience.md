@@ -141,7 +141,7 @@ sections:
         self:
           textAlign: center
     elementId: ''
-    variant: small-list
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
