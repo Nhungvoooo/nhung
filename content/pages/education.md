@@ -274,7 +274,7 @@ sections:
         url: /images/Screenshot 2024-10-03 at 14.19.51.png
         altText: Python Javascript
       - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.10.51.png
+        url: /images/Screenshot 2024-10-03 at 14.20.37.png
         altText: Contentful logo
       - type: ImageBlock
         altText: Sanity logo
