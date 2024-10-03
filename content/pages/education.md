@@ -152,7 +152,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: DISSERTATION DEFENSE 2023
       color: text-dark
     subtitle: Increase your reach
     text: >
