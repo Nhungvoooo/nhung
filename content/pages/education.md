@@ -106,7 +106,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: DISSERTATION DEFENSE 2023
       color: text-dark
     subtitle: ''
     text: ''
