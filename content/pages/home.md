@@ -319,7 +319,7 @@ sections:
         altText: ''
         url: /Blog
         showIcon: true
-        icon: chevronDown
+        icon: chevronLeft
         iconPosition: right
         style: primary
         elementId: ''
