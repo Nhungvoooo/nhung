@@ -119,7 +119,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: ''
+      label: Learning Journey
       color: text-primary
     colors: bg-light-fg-dark
     styles:
