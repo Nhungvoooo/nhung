@@ -60,9 +60,14 @@ sections:
         title: HP Logistics JSC
         price: Business Development Intern
         details: 'Dec, 2022 - Dec 2023'
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          *   Conduct comprehensive market research to identify new business
+          opportunities and emerging trends in the logistics industry.
+
+
+          *   Develop strong relationships with clients, suppliers, and
+          stakeholders to enhance collaboration and drive business growth.
+
         features:
           - Feature one
           - Feature two
