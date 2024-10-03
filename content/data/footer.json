@@ -42,7 +42,7 @@
             {
                 "label": "Achievement",
                 "altText": "careers page",
-                "url": "/Achievemnts",
+                "url": "/Achievement",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
