@@ -163,7 +163,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: "The IIBA™ Business Analysis -\_International Institute of Business Analysis (BAC Endorsed Education Provider)"
+        subtitle: "The Business Analysis -\_International Institute of Business Analysis (BAC Endorsed Education Provider)"
         image:
           type: ImageBlock
           url: /images/IMG_1933.jpg
