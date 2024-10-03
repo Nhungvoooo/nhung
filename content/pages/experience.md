@@ -198,7 +198,7 @@ sections:
       - type: PricingPlan
         title: 'Vietlink Global, LLC'
         price: Business Analyst
-        details: per month
+        details: Jan 2024 - Presents
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
