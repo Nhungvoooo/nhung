@@ -230,7 +230,7 @@ sections:
       - type: PricingPlan
         title: AFR Cloud Computing
         price: Salesforce Solutions Engineer
-        details: per month
+        details: 'Nov, 2023 - Presents'
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
