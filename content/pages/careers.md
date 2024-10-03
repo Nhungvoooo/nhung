@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Experiences
 slug: careers
 sections:
   - title:
