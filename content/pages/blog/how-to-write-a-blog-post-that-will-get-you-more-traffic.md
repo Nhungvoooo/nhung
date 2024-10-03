@@ -9,7 +9,7 @@ excerpt: >-
   equips individuals with the essential skills and knowledge needed to
   effectively manage and optimize Salesforce environments.
 featuredImage:
-  url: /images/IMG_1933.jpg
+  url: /images/Anh 3.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
