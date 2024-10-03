@@ -10,9 +10,9 @@ topSections:
       type: TitleBlock
     subtitle: ''
     posts:
-      - content/pages/blog/five-tips-for-starting-a-startup.md
       - >-
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/what-is-a-design-system.md
     showThumbnail: true
     showExcerpt: true
