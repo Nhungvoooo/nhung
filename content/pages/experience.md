@@ -10,9 +10,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      "The journey of a thousand miles begins with one step, and every step in
-      your work journey shapes who you become."
+    text: >+
+      <div style="text-align: center">"The journey of a thousand miles begins
+      with one step, </div>
+
+
+      <div style="text-align: center">and every step in your work journey shapes
+      who you become."</div>
+
     actions:
       - label: See open positions
         url: /
