@@ -3,25 +3,7 @@ title: Blog
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
-topSections:
-  - subtitle: ''
-    posts: []
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    variant: small-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+topSections: []
 styles:
   title:
     textAlign: center
