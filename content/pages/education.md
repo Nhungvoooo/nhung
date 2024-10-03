@@ -123,10 +123,10 @@ sections:
             - pb-0
             - pr-0
           margin:
-            - mt-2
-            - ml-2
-            - mb-2
-            - mr-2
+            - mt-11
+            - ml-11
+            - mb-11
+            - mr-11
           borderRadius: large
           borderStyle: none
     badge:
