@@ -108,7 +108,7 @@ sections:
       type: TitleBlock
       text: DISSERTATION DEFENSE 2023
       color: text-light
-    subtitle: ff
+    subtitle: ''
     text: ''
     actions: []
     media:
