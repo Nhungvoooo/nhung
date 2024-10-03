@@ -197,7 +197,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Business Analyst
-        price: $99
+        price: Business Analyst
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
