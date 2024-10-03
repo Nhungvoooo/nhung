@@ -91,7 +91,7 @@ sections:
         tagline: Jan 2024 - Presents
         subtitle: 'Vietlink Global, LLC'
         text: |+
-          *
+
 
         image:
           type: ImageBlock
