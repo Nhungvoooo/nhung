@@ -138,7 +138,7 @@ sections:
         label: More Details
         altText: ''
         url: /Education
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
