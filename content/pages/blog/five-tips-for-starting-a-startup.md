@@ -2,7 +2,12 @@
 title: Science Research Achivement
 slug: five-tips-for-starting-a-startup
 date: '2024-01-08'
-excerpt: "Achievement in Science Research,\_article titled “Intention to accept Smart Contracts based-on Blockchain Technology”,. The article has been published by Springer: Disruptive Technology and Business Continuity 2024 series. This study delves into the factors influencing the adoption of smart contracts in logistics domain, highlighting their potential to transform business practices."
+excerpt: >-
+  Achievement in Science Research titled “Intention to accept Smart Contracts
+  based-on Blockchain Technology”. The article has been published by Springer:
+  Disruptive Technology and Business Continuity 2024 series. This study delves
+  into the factors influencing the adoption of smart contracts in logistics
+  domain, highlighting their potential to transform business practices.
 featuredImage:
   url: /images/Anh 1.jpeg
   altText: Thumbnail
