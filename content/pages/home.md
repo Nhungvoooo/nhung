@@ -270,7 +270,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /
+        url: /Experience
         showIcon: false
         icon: arrowRight
         iconPosition: right
