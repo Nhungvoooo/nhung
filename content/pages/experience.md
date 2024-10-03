@@ -93,9 +93,15 @@ sections:
         title: 'Vietlink Global, LLC'
         price: Business Analyst
         details: Jan 2024 - Presents
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          *   Conduct in-depth analysis of logistics operations to identify
+          inefficiencies and recommend actionable solutions that improve
+          performance and reduce costs. 
+
+
+          *   Collaborate with cross-functional teams to gather and document
+          business requirements, ensuring alignment with organizational goals.
+
         features:
           - Feature one
           - Feature two
