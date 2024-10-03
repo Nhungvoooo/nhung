@@ -16,7 +16,6 @@ sections:
       - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/what-is-a-design-system.md
       - content/pages/blog/top-ten-lessons-we-learned.md
-      - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/track-the-right-analytics-for-your-business.md
     showThumbnail: true
     showExcerpt: true
