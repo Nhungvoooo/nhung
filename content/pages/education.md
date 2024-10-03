@@ -280,7 +280,7 @@ sections:
         altText: Negotiation
         url: /images/Screenshot 2024-10-03 at 14.22.15.png
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/Screenshot 2024-10-03 at 14.23.59.png
         altText: Rangle logo
     motion: move-to-left
     colors: bg-light-fg-dark
