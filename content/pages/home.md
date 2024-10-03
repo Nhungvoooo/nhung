@@ -318,7 +318,7 @@ sections:
         label: Get started
         altText: ''
         url: /Blog
-        showIcon: false
+        showIcon: true
         icon: chevronDown
         iconPosition: right
         style: primary
