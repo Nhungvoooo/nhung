@@ -200,7 +200,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: ''
-        subtitle: $Science Research on AI
+        subtitle: Scientific research in artificial intelligence - data and technology
         image:
           type: ImageBlock
           url: /images/IMG_9212.jpg
