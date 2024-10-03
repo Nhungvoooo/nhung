@@ -4,10 +4,10 @@ title: Dissertation Defense of Achievement
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-09-18'
 excerpt: >-
-  The certificate of Achievement recognizes the successful completion of the
-  Salesforce Administrator Course by TalentForce. This comprehensive program
-  equips individuals with the essential skills and knowledge needed to
-  effectively manage and optimize Salesforce environments.
+  Successfully defended my dissertation titled " on [Date] at
+  [Institution/University]. The defense involved a comprehensive presentation of
+  my research findings, methodology, and contributions to the field of [Your
+  Field/Area of Study].
 featuredImage:
   url: /images/Anh 3.jpg
   altText: Thumbnail
