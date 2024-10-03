@@ -362,12 +362,6 @@ sections:
       self-positioning. Together, we can empower each other and create a
       positive impact in the communities we serve.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
