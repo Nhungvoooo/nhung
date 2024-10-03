@@ -20,7 +20,7 @@ sections:
         url: /
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         type: Button
         showIcon: true
     colors: bg-neutral-fg-dark
