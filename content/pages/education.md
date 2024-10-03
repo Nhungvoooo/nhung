@@ -163,7 +163,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: $ 88 – $ 176
+        subtitle: The IIBA™ Business Analysis -
         image:
           type: ImageBlock
           url: /images/IMG_1933.jpg
