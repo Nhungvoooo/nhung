@@ -166,7 +166,7 @@ sections:
       - type: PricingPlan
         title: HP Logistics JSC
         price: Business Development Intern
-        details: No credit card required
+        details: 'Dec, 2022 - Dec 2023'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
