@@ -396,7 +396,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Publications
-        tagline: Feature 1
+        tagline: ''
         subtitle: >-
           INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY IN
           VIETNAMESE BUSINESSES
