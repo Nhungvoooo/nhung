@@ -127,9 +127,15 @@ sections:
         title: AFR Cloud Computing
         price: Salesforce Solutions Engineer
         details: 'Nov, 2023 - Presents'
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >+
+          *   Collaborate with business stakeholders to analyze requirements and
+          translate them into effective Salesforce solutions that align with
+          strategic goals.
+
+
+          *   Design, configure, and customize Salesforce applications to
+          optimize user experience and operational efficiency.
+
         features:
           - Feature one
           - Feature two
