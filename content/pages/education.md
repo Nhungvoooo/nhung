@@ -162,7 +162,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: ''
+        title: 'Business Analysis '
         subtitle: "Business Analysis -\_International Institute of Business Analysis (BAC Endorsed Education Provider)"
         image:
           type: ImageBlock
