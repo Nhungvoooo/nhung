@@ -11,7 +11,7 @@
             {
                 "label": "Home",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/Home",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
