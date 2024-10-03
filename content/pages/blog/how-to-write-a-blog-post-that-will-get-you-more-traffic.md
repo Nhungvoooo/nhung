@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: the graduation dissertation defense
+title: The Achievement of graduation dissertation defense
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-09-18'
 excerpt: >-
