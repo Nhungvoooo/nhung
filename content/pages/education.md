@@ -163,7 +163,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/IMG_2792.jpg
+      url: /images/Screenshot 2024-10-03 at 10.35.24.png
       altText: Dope design preview
     badge:
       type: Badge
