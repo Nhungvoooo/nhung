@@ -271,7 +271,7 @@ sections:
         label: Get started
         altText: ''
         url: /Experience
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
