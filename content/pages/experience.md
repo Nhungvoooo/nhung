@@ -49,7 +49,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: MY EXPERIENCES
+      text: ''
       color: text-dark
       styles:
         self:
