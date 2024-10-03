@@ -274,7 +274,7 @@ sections:
         showIcon: true
         icon: play
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     badge:
       type: Badge
