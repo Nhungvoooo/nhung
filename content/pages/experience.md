@@ -196,7 +196,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Business Analyst
+        title: 'Vietlink Global, LLC'
         price: Business Analyst
         details: per month
         description: >-
