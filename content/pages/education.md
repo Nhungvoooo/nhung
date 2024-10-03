@@ -291,7 +291,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: CERTIFICATION
+      text: Licenses & certifications
       color: text-dark
       styles:
         self:
