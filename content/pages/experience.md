@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Below
         url: /
-        icon: arrowRight
+        icon: arrowDown
         iconPosition: right
         style: secondary
         type: Button
