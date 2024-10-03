@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Science Research on Defense
+title: Science Research on Deseration Defense
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-09-18'
 excerpt: >-
