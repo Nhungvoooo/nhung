@@ -231,7 +231,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Screenshot 2024-10-03 at 14.13.57.png
         altText: Empathy logo
       - type: ImageBlock
         altText: Image alt text placeholder
