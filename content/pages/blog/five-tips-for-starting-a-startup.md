@@ -1,5 +1,5 @@
 ---
-title: Science Research Achivement
+title: Science Research Achievement
 slug: five-tips-for-starting-a-startup
 date: '2024-01-08'
 excerpt: "I’m editing article titled “Intention to accept Smart Contracts based-on Blockchain Technology”.\_The article has been published by Springer: Disruptive Technology and Business Continuity 2024 series. This study delves into the factors influencing the adoption of smart contracts in logistics domain, highlighting their potential to transform business practices."
