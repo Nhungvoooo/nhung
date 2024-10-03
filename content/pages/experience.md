@@ -228,7 +228,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
+        title: AFR Cloud Computing
         price: Salesforce Solutions Engineer
         details: per month
         description: >-
