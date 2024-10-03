@@ -174,7 +174,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/IMG_0195.jpg
       altText: Fun feature preview
     badge:
       type: Badge
