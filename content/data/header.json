@@ -127,6 +127,17 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Play",
+            "altText": "Play",
+            "url": "www.linkedin.com/in/nhungvoooo",
+            "showIcon": true,
+            "icon": "play",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",
