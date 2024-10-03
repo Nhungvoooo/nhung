@@ -199,7 +199,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: ''
         subtitle: $117
         image:
           type: ImageBlock
