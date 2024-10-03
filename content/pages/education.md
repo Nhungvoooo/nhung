@@ -241,7 +241,7 @@ sections:
             borderRadius: medium
         url: /images/Screenshot 2024-10-03 at 14.16.21.png
       - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.13.57.png
+        url: /images/Screenshot 2024-10-03 at 14.15.25.png
         altText: Wellster logo
         styles:
           self:
