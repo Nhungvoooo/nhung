@@ -115,14 +115,8 @@ sections:
         title: Salesforce Solutions Engineer
         tagline: 'Nov, 2023 - Presents'
         subtitle: AFR Cloud Computing
-        text: >+
-          *   Collaborate with business stakeholders to analyze requirements and
-          translate them into effective Salesforce solutions that align with
-          strategic goals.
+        text: |+
 
-
-          *   Design, configure, and customize Salesforce applications to
-          optimize user experience and operational efficiency.
 
         image:
           type: ImageBlock
