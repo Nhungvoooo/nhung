@@ -132,7 +132,7 @@ sections:
       type: TitleBlock
       text: Graduation Ceremony
       color: text-dark
-    subtitle: Being Together
+    subtitle: ''
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
