@@ -62,8 +62,6 @@ sections:
         price: Business Development Intern
         details: 'Dec, 2022 - Dec 2023'
         description: >+
-
-
           As a Business Development professional in the logistics sector, I
           focus on identifying growth opportunities and building strategic
           partnerships that enhance operational efficiency and drive revenue.
@@ -71,9 +69,7 @@ sections:
           innovative solutions tailored to meet client needs and market demands.
 
 
-
-
-          Conduct comprehensive market research to identify new business
+          *   Conduct comprehensive market research to identify new business
           opportunities and emerging trends in the logistics industry.
 
 
