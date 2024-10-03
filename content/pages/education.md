@@ -234,7 +234,7 @@ sections:
         url: /images/Screenshot 2024-10-03 at 14.13.57.png
         altText: TOEIC
       - type: ImageBlock
-        altText: Image alt text placeholder
+        altText: IIBA
         elementId: ''
         styles:
           self:
