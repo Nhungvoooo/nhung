@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ' Scientific Contributions and Achievement Awards'
+title: Scientific Contributions and Achievement Award
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-09-18'
 excerpt: >-
