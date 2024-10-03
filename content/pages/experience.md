@@ -105,7 +105,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/mới .jpg
+          url: /images/IMG_0205.jpg
           altText: Pricing plan 2
         actions:
           - type: Button
