@@ -257,7 +257,7 @@ sections:
               - pr-0
       - type: ImageBlock
         url: /images/Screenshot 2024-10-03 at 14.15.47.png
-        altText: Vise logo
+        altText: EF SET
         styles:
           self:
             margin:
