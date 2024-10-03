@@ -135,7 +135,7 @@ sections:
         type: FeaturedItem
     actions:
       - type: Button
-        label: Get started
+        label: More Details
         altText: ''
         url: /Education
         showIcon: false
