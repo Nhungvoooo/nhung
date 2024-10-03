@@ -278,6 +278,7 @@ sections:
         altText: resource planning
       - type: ImageBlock
         altText: Sanity logo
+        url: /images/Screenshot 2024-10-03 at 14.22.15.png
       - type: ImageBlock
         url: /images/rangle-logo.svg
         altText: Rangle logo
