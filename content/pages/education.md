@@ -203,7 +203,7 @@ sections:
         subtitle: $117
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/IMG_6940.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
