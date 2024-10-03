@@ -41,7 +41,7 @@
         "links": [
             {
                 "label": "Achievement",
-                "altText": "careers page",
+                "altText": "Achievement",
                 "url": "/Achievement",
                 "icon": "arrowRight",
                 "iconPosition": "right",
