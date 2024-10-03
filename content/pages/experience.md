@@ -105,7 +105,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/IMG_0205.jpg
+          url: /images/Sua.JPG
           altText: Pricing plan 2
         actions:
           - type: Button
