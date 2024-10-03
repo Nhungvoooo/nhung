@@ -163,7 +163,9 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Business Analysis '
-        subtitle: "Business Analysis -\_International Institute of Business Analysis (BAC Endorsed Education Provider)"
+        subtitle: >-
+          International Institute of Business Analysis (BAC Endorsed Education
+          Provider)
         image:
           type: ImageBlock
           url: /images/IMG_1933.jpg
