@@ -11,7 +11,7 @@
             {
                 "label": "Home",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/Home",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -19,7 +19,7 @@
             },
             {
                 "label": "Education",
-                "url": "/pricing",
+                "url": "/Education",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -41,8 +41,8 @@
         "links": [
             {
                 "label": "Achievement",
-                "altText": "careers page",
-                "url": "/careers",
+                "altText": "Achievement",
+                "url": "/Achievement",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -83,9 +83,9 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
+            "altText": "Instagram link",
             "url": "https://github.com/netlify",
-            "icon": "github",
+            "icon": "instagram",
             "type": "Social"
         },
         {

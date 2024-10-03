@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/Aboutme",
+            "url": "/Home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -23,8 +23,8 @@
         },
         {
             "label": "Education",
-            "altText": "Blog",
-            "url": "/EducationID",
+            "altText": "Education",
+            "url": "/Education",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -32,8 +32,8 @@
         },
         {
             "label": "Experiences",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "Experience",
+            "url": "/Experience",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -45,7 +45,7 @@
             "links": [
                 {
                     "label": "Achievement",
-                    "url": "/",
+                    "url": "/Achievement",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -117,6 +117,16 @@
             "style": "primary",
             "type": "Button",
             "showIcon": false
+        },
+        {
+            "type": "Link",
+            "altText": "LinkedIn",
+            "url": "www.linkedin.com/in/nhungvoooo",
+            "showIcon": true,
+            "icon": "linkedin",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",

@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /Aboutme
+slug: /Home
 sections:
   - type: GenericSection
     title:
@@ -32,15 +32,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: More Details
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/Po.01.jpg
       altText: Unblock your team boost your time to production preview
@@ -142,7 +133,16 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions: []
+    actions:
+      - type: Button
+        label: More Details
+        altText: ''
+        url: /Education
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       label: Qualifications
       color: text-primary
@@ -266,7 +266,16 @@ sections:
             borderRadius: x-large
             flexDirection: row
         tagline: 'Nov, 2023 - Presents'
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /Experience
+        showIcon: true
+        icon: play
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       type: Badge
       label: ''
@@ -300,13 +309,20 @@ sections:
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
       - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/what-is-a-design-system.md
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /blog
+        showIcon: true
+        icon: chevronBigRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     variant: small-list
     colors: bg-light-fg-dark
@@ -319,48 +335,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-  - subtitle: Certifications
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-        styles:
-          self:
-            margin:
-              - mt-0
-              - ml-0
-              - mb-0
-              - mr-0
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -378,22 +352,25 @@ sections:
       color: text-dark
     subtitle: Member of iVolunteer Vietnam
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Volunteer Vietnam is a non-profit organization dedicated to volunteering
+      and community development across the country. I have had the privilege of
+      working in an environment that fosters connection and knowledge sharing
+      among individuals from various industries and fields at iVolunteer
+      Vietnam. Through this communication support campaign, I aim to highlight
+      our mission of connecting and sharing development opportunities while
+      accompanying all volunteers on their journeys of self-discovery and
+      self-positioning. Together, we can empower each other and create a
+      positive impact in the communities we serve.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
+      - type: Link
+        label: iVolunteering here
+        altText: Play
+        url: 'https://ivolunteervietnam.com/'
+        showIcon: true
+        icon: play
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/1715852439811.jpg
@@ -422,7 +399,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Publications
-        tagline: Feature 1
+        tagline: ''
         subtitle: >-
           INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY IN
           VIETNAMESE BUSINESSES
@@ -545,6 +522,75 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: Licenses & Certifications
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.13.57.png
+        altText: TOEIC
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.16.21.png
+        altText: IIBA
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.15.25.png
+        altText: Projects Management
+        styles:
+          self:
+            margin:
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.15.47.png
+        altText: EF SET
+        styles:
+          self:
+            margin:
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.19.51.png
+        altText: Python Javascript
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.20.37.png
+        altText: resource planning
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.22.15.png
+        altText: Negotiation
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.23.59.png
+        altText: Research
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: CarouselSection
     title: null
     subtitle: Don't hesitate to say hello!
