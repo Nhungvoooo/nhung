@@ -102,8 +102,7 @@ sections:
           *   Collaborate with cross-functional teams to gather and document
           business requirements, ensuring alignment with organizational goals.
 
-        features:
-          - Feature one
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
