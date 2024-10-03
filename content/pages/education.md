@@ -188,7 +188,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: ''
+        title: Salesforce Administration
         subtitle: Salesforce Administrator - TalentForce
         image:
           type: ImageBlock
