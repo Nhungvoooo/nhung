@@ -22,6 +22,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+        showIcon: true
     colors: bg-neutral-fg-dark
     styles:
       self:
