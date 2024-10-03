@@ -33,7 +33,7 @@
         {
             "label": "Experiences",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/Experience",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
