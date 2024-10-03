@@ -351,9 +351,21 @@ sections:
       text: Volunteering
       color: text-dark
     subtitle: Member of iVolunteer Vietnam
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Volunteer Vietnam is a non-profit organization dedicated to volunteering
+      and community development across the country. I have had the privilege of
+      working in an environment that fosters connection and knowledge sharing
+      among individuals from various industries and fields at iVolunteer
+      Vietnam. 
+
+
+      Through this communication support campaign, I aim to highlight our
+      mission of connecting and sharing development opportunities while
+      accompanying all volunteers on their journeys of self-discovery and
+      self-positioning. Together, we can empower each other and create a
+      positive impact in the communities we serve.
+
+
     actions:
       - type: Button
         label: Get started
