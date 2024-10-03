@@ -3,7 +3,7 @@ title: Experience
 slug: Experience
 sections:
   - title:
-      text: A team that works closely together
+      text: MY EXPERIENCES
       color: text-dark
       styles:
         self:
