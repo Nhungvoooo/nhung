@@ -139,12 +139,6 @@ sections:
       special for me. Thank you for your unwavering support, encouragement, and
       guidance throughout my academic journey.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
