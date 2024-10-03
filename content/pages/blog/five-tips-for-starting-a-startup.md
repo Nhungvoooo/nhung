@@ -3,11 +3,10 @@ title: Science Research Achivement
 slug: five-tips-for-starting-a-startup
 date: '2024-01-08'
 excerpt: >-
-  Achievement in Science Research: AI, Data and Technology . The article has
-  been published by Springer: Disruptive Technology and Business Continuity 2024
-  series. This study delves into the factors influencing the adoption of smart
-  contracts in logistics domain, highlighting their potential to transform
-  business practices.
+  Achievement in Science Research . The article has been published by Springer:
+  Disruptive Technology and Business Continuity 2024 series. This study delves
+  into the factors influencing the adoption of smart contracts in logistics
+  domain, highlighting their potential to transform business practices.
 featuredImage:
   url: /images/Anh 1.jpeg
   altText: Thumbnail
