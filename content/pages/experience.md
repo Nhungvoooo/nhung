@@ -2,6 +2,130 @@
 title: Experience
 slug: Experience
 sections:
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: MY EXPERIENCES
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: >-
+      "The journey of a thousand miles begins with one step, and every step in
+      your work journey shapes who you become."
+    items:
+      - type: FeaturedItem
+        title: Business Development
+        tagline: 'Dec, 2022 - Dec 2023'
+        subtitle: HP Logistics JSC
+        text: >+
+          *   Conduct comprehensive market research to identify new business
+          opportunities and emerging trends in the logistics industry. 
+
+
+          *   Develop strong relationships with clients, suppliers, and
+          stakeholders to enhance collaboration and drive business growth.
+
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Business Analyst
+        tagline: Jan 2024 - Presents
+        subtitle: 'Vietlink Global, LLC'
+        text: >+
+          *   Conduct in-depth analysis of logistics operations to identify
+          inefficiencies and recommend actionable solutions that improve
+          performance and reduce costs. Collaborate with cross-functional teams
+          to gather and document business requirements, ensuring alignment with
+          organizational goals.
+
+        image:
+          type: ImageBlock
+          url: /images/icon3.svg
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Salesforce Solutions Engineer
+        tagline: 'Nov, 2023 - Presents'
+        subtitle: AFR Cloud Computing
+        text: >+
+          *   Collaborate with business stakeholders to analyze requirements and
+          translate them into effective Salesforce solutions that align with
+          strategic goals.
+
+
+          *   Design, configure, and customize Salesforce applications to
+          optimize user experience and operational efficiency.
+
+        image:
+          type: ImageBlock
+          url: /images/icon2.svg
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: A team that works closely together
       color: text-dark
