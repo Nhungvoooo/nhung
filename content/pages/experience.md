@@ -54,9 +54,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: >-
-      "The journey of a thousand miles begins with one step, and every step in
-      your work journey shapes who you become."
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Business Development
