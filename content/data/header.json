@@ -24,7 +24,7 @@
         {
             "label": "Education",
             "altText": "Blog",
-            "url": "/Home",
+            "url": "/Education",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
