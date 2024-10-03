@@ -266,7 +266,16 @@ sections:
             borderRadius: x-large
             flexDirection: row
         tagline: 'Nov, 2023 - Presents'
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge:
       type: Badge
       label: ''
