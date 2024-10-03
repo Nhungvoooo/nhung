@@ -62,13 +62,8 @@ sections:
         title: Business Development
         tagline: 'Dec, 2022 - Dec 2023'
         subtitle: HP Logistics JSC
-        text: >+
-          *   Conduct comprehensive market research to identify new business
-          opportunities and emerging trends in the logistics industry. 
+        text: |+
 
-
-          *   Develop strong relationships with clients, suppliers, and
-          stakeholders to enhance collaboration and drive business growth.
 
         image:
           type: ImageBlock
