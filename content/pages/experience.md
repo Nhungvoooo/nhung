@@ -137,7 +137,6 @@ sections:
           optimize user experience and operational efficiency.
 
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature five
