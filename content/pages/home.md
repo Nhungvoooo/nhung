@@ -315,9 +315,9 @@ sections:
     showAuthor: true
     actions:
       - type: Button
-        label: Get started
+        label: More Details
         altText: ''
-        url: /blog
+        url: /Achievement
         showIcon: true
         icon: chevronBigRight
         iconPosition: right
