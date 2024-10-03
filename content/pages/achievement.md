@@ -20,16 +20,7 @@ sections:
     showExcerpt: true
     showDate: true
     showAuthor: true
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /Blog
-        showIcon: true
-        icon: chevronBigRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     elementId: ''
     variant: small-list
     colors: bg-light-fg-dark
