@@ -378,75 +378,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: Licenses & Certifications
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.13.57.png
-        altText: TOEIC
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.16.21.png
-        altText: IIBA
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.15.25.png
-        altText: Projects Management
-        styles:
-          self:
-            margin:
-              - mt-0
-              - ml-0
-              - mb-0
-              - mr-0
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.15.47.png
-        altText: EF SET
-        styles:
-          self:
-            margin:
-              - mt-0
-              - ml-0
-              - mb-0
-              - mr-0
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.19.51.png
-        altText: Python Javascript
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.20.37.png
-        altText: resource planning
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.22.15.png
-        altText: Negotiation
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.23.59.png
-        altText: Research
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -621,6 +552,75 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: Licenses & Certifications
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.13.57.png
+        altText: TOEIC
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.16.21.png
+        altText: IIBA
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.15.25.png
+        altText: Projects Management
+        styles:
+          self:
+            margin:
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.15.47.png
+        altText: EF SET
+        styles:
+          self:
+            margin:
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.19.51.png
+        altText: Python Javascript
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.20.37.png
+        altText: resource planning
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.22.15.png
+        altText: Negotiation
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.23.59.png
+        altText: Research
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: CarouselSection
     title: null
     subtitle: Don't hesitate to say hello!
