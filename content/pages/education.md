@@ -155,7 +155,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: My Learning Journey
+      text: a lifelong adventure filled with discoveries
       color: text-dark
       styles:
         self:
