@@ -31,7 +31,7 @@ sections:
         style: primary
         elementId: ''
     elementId: ''
-    variant: three-col-grid
+    variant: small-list
     colors: bg-light-fg-dark
     hoverEffect: thin-underline
     styles:
