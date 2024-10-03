@@ -270,7 +270,7 @@ sections:
               - pb-0
               - pr-0
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/Screenshot 2024-10-03 at 14.04.21.png
         altText: Telus logo
       - type: ImageBlock
         url: /images/contenful-logo.svg
