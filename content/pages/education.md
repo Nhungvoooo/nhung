@@ -134,8 +134,10 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      I want to express my heartfelt gratitude for being a part of my graduation
+      ceremony. Your presence made this milestone even more special for me.
+      Thank you for your unwavering support, encouragement, and guidance
+      throughout my academic journey.
     actions:
       - type: Button
         label: Get started
