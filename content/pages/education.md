@@ -201,7 +201,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: ''
+        title: Scientific research in artificial intelligence - data and technology
         subtitle: Scientific research in artificial intelligence - data and technology
         image:
           type: ImageBlock
