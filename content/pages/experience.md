@@ -196,7 +196,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: Business Analyst
         price: $99
         details: per month
         description: >-
