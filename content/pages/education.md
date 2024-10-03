@@ -281,7 +281,7 @@ sections:
         url: /images/Screenshot 2024-10-03 at 14.22.15.png
       - type: ImageBlock
         url: /images/Screenshot 2024-10-03 at 14.23.59.png
-        altText: Rangle logo
+        altText: Research
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
