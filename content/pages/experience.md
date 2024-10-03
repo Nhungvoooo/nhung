@@ -136,8 +136,7 @@ sections:
           *   Design, configure, and customize Salesforce applications to
           optimize user experience and operational efficiency.
 
-        features:
-          - Feature two
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
