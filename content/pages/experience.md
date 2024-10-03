@@ -91,7 +91,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: 'Vietlink Global, LLC'
-        price: Business Analyst
+        price: 'Business Analyst                                       '
         details: Jan 2024 - Presents
         description: >+
           *   Conduct in-depth analysis of logistics operations to identify
