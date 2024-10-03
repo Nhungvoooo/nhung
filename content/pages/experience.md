@@ -68,8 +68,7 @@ sections:
           *   Develop strong relationships with clients, suppliers, and
           stakeholders to enhance collaboration and drive business growth.
 
-        features:
-          - Feature one
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
