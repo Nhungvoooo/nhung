@@ -1,0 +1,133 @@
+{
+    "model": "ImageGallerySection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Cert",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Education"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": "Certifications",
+                "images": [
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/empathy-logo.svg",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Empathy logo",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/hero2.svg",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Image alt text placeholder",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "borderRadius": "medium"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/wellster-logo.svg",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Wellster logo",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/vise-logo.svg",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Vise logo",
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "margin": [
+                                    "mt-0",
+                                    "ml-0",
+                                    "mb-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-0",
+                                    "pl-0",
+                                    "pb-0",
+                                    "pr-0"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/telus-logo.svg",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Telus logo",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/contenful-logo.svg",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Contentful logo",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": null,
+                        "altText": "Sanity logo",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/rangle-logo.svg",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Rangle logo",
+                        "elementId": null,
+                        "styles": null
+                    }
+                ],
+                "badge": null,
+                "elementId": null,
+                "motion": "move-to-left",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/image-gallery-section-cert-e428.png"
+        }
+    ]
+}
