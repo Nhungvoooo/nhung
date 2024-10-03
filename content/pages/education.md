@@ -47,6 +47,107 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: MY EDUCATION
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Thu Khoa Nghia High School For The Gifted
+        subtitle: Aug 2013 - Aug 2017
+        text: |
+          High School Diploma
+        image:
+          type: ImageBlock
+          url: /images/Cấp 3.jpg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: HCMC University of Foreign Languages - Information Technology
+        subtitle: July 2019 - May 2023
+        text: |
+          International Business - BBA
+        image:
+          type: ImageBlock
+          url: /images/logo (1).png
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Trailhead by Salesforce
+        subtitle: Nov 2023 - Present
+        text: |
+          Salesforce Administrator/ Four Start Ranger
+        image:
+          type: ImageBlock
+          url: /images/Anh logoo trailhead.png
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    badge:
+      type: Badge
+      label: Qualifications
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: EducationID
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
