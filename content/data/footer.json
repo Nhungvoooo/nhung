@@ -19,7 +19,7 @@
             },
             {
                 "label": "Education",
-                "url": "/pricing",
+                "url": "/Education",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
