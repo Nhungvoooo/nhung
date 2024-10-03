@@ -16,7 +16,7 @@ sections:
       become."</div>
 
     actions:
-      - label: See open positions
+      - label: Below
         url: /
         icon: arrowRight
         iconPosition: right
