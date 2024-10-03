@@ -241,7 +241,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/Screenshot 2024-10-03 at 14.04.49.png
         altText: Wellster logo
       - type: ImageBlock
         url: /images/vise-logo.svg
