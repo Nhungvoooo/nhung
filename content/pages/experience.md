@@ -165,7 +165,7 @@ sections:
     plans:
       - type: PricingPlan
         title: HP Logistics JSC
-        price: Business Development
+        price: Business Development Intern
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
