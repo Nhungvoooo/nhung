@@ -227,6 +227,73 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/empathy-logo.svg
+        altText: Empathy logo
+      - type: ImageBlock
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-03 at 14.04.49.png
+        altText: Wellster logo
+        styles:
+          self:
+            margin:
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+      - type: ImageBlock
+        url: /images/vise-logo.svg
+        altText: Vise logo
+        styles:
+          self:
+            margin:
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+      - type: ImageBlock
+        url: /images/telus-logo.svg
+        altText: Telus logo
+      - type: ImageBlock
+        url: /images/contenful-logo.svg
+        altText: Contentful logo
+      - type: ImageBlock
+        altText: Sanity logo
+      - type: ImageBlock
+        url: /images/rangle-logo.svg
+        altText: Rangle logo
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    title:
+      type: TitleBlock
+      text: CERTIFICATION
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: CarouselSection
     subtitle: Don't hesitate to say hello!
     items:
@@ -327,73 +394,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/empathy-logo.svg
-        altText: Empathy logo
-      - type: ImageBlock
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.04.49.png
-        altText: Wellster logo
-        styles:
-          self:
-            margin:
-              - mt-0
-              - ml-0
-              - mb-0
-              - mr-0
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-        styles:
-          self:
-            margin:
-              - mt-0
-              - ml-0
-              - mb-0
-              - mr-0
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: ImageBlock
-        url: /images/telus-logo.svg
-        altText: Telus logo
-      - type: ImageBlock
-        url: /images/contenful-logo.svg
-        altText: Contentful logo
-      - type: ImageBlock
-        altText: Sanity logo
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    title:
-      type: TitleBlock
-      text: CERTIFICATION
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
 slug: Education
 seo:
   type: Seo
