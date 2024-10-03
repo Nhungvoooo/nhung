@@ -201,7 +201,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Scientific Research in Artificial intelligence - data & Technology
+        title: Scientific Research in Artificial Intelligence - Data & Technology
         subtitle: HCMC University of Foreign Languages - Information Technology
         image:
           type: ImageBlock
