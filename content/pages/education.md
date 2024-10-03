@@ -280,6 +280,9 @@ sections:
       type: TitleBlock
       text: CERTIFICATION
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: CarouselSection
     subtitle: Don't hesitate to say hello!
     items:
