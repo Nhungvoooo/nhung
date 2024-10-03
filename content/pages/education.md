@@ -91,7 +91,7 @@ sections:
         self:
           textAlign: center
     elementId: EducationID
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
