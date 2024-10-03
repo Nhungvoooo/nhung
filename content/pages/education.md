@@ -276,6 +276,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: CarouselSection
     subtitle: Don't hesitate to say hello!
     items:
