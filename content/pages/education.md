@@ -240,7 +240,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Screenshot 2024-10-03 at 14.04.49.png
+        url: /images/Screenshot 2024-10-03 at 14.13.57.png
         altText: Wellster logo
         styles:
           self:
