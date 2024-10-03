@@ -324,6 +324,13 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
