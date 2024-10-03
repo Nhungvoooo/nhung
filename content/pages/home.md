@@ -317,7 +317,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /blog
+        url: /Achievement
         showIcon: true
         icon: chevronBigRight
         iconPosition: right
