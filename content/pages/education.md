@@ -108,7 +108,7 @@ sections:
       type: TitleBlock
       text: DISSERTATION DEFENSE 2023
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: HCMC University of Foreign Languages - Information Technology
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
