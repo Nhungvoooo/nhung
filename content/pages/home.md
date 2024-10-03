@@ -369,6 +369,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Link
+        label: Play
+        altText: Play
+        url: 'https://ivolunteervietnam.com/'
+        showIcon: true
+        icon: play
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/1715852439811.jpg
