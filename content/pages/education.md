@@ -255,7 +255,7 @@ sections:
               - pb-0
               - pr-0
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/Screenshot 2024-10-03 at 14.04.35.png
         altText: Vise logo
         styles:
           self:
