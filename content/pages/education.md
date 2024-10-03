@@ -242,6 +242,13 @@ sections:
       - type: ImageBlock
         url: /images/Screenshot 2024-10-03 at 14.04.49.png
         altText: Wellster logo
+        styles:
+          self:
+            margin:
+              - mt-5
+              - ml-5
+              - mb-5
+              - mr-5
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
