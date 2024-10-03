@@ -113,7 +113,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/IMG_7059 2-min.jpg
+      url: /images/IMG_0195.jpg
       altText: Fun feature preview
       styles:
         self:
