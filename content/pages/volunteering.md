@@ -33,7 +33,7 @@ sections:
         altText: ''
         url: 'https://ivolunteervietnam.com/'
         showIcon: false
-        icon: arrowRight
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: ''
