@@ -512,16 +512,6 @@ sections:
         flexDirection: col-reverse
         justifyContent: center
     type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: ImageGallerySection
     title:
       type: TitleBlock
@@ -591,6 +581,16 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: CarouselSection
     title: null
     subtitle: Don't hesitate to say hello!
