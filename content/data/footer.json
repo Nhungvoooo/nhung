@@ -37,7 +37,7 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": ".",
+        "title": "",
         "links": [
             {
                 "label": "Achievement",
@@ -83,18 +83,6 @@
     },
     "socialLinks": [
         {
-            "altText": "Instagram link",
-            "url": "https://github.com/netlify",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/in/nhungvoooo/",
             "icon": "linkedin",
@@ -104,6 +92,12 @@
             "altText": "Email link",
             "url": "nhungvo.works@gmail.com",
             "icon": "mail",
+            "type": "Social"
+        },
+        {
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/nhungvoooo/",
+            "icon": "instagram",
             "type": "Social"
         }
     ],
