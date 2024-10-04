@@ -553,7 +553,7 @@ sections:
     actions:
       - type: Link
         label: ''
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
