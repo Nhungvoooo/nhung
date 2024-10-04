@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: >-
+      I am passionate about making a positive impact and reinforced my
+      commitment to social justice, environmental sustainability.
     items:
       - type: FeaturedItem
         title: 500k
