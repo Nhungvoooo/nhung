@@ -71,7 +71,7 @@
                 "type": "Link",
                 "label": "Contact me",
                 "altText": "",
-                "url": "/",
+                "url": "/Home",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
