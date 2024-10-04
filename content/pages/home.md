@@ -519,7 +519,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: dots-nav
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
