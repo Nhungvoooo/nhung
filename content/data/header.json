@@ -110,32 +110,12 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Linkedin",
-            "url": "www.linkedin.com/in/nhungvoooo",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button",
-            "showIcon": false
-        },
-        {
             "type": "Link",
             "altText": "LinkedIn",
             "url": "",
             "showIcon": true,
             "icon": "linkedin",
             "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "Play",
-            "altText": "Play",
-            "url": "www.linkedin.com/in/nhungvoooo",
-            "showIcon": true,
-            "icon": "play",
-            "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
         }
