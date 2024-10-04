@@ -441,7 +441,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: iVolunteer Site
+        label: S
         altText: Play
         url: 'https://ivolunteervietnam.com/'
         showIcon: true
