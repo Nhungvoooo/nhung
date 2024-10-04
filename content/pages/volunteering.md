@@ -12,7 +12,16 @@ sections:
           textAlign: center
     subtitle: Be the change you wish to see in the world.
     items: []
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       type: Badge
       label: ''
