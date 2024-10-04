@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of Our Development Team
+title: 'Certificate of Participation: Presented Article at ICB 2023'
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
