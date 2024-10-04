@@ -24,7 +24,7 @@ sections:
         altText: ''
         url: /Volunteering
         showIcon: false
-        icon: arrowRight
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: ''
