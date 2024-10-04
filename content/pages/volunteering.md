@@ -10,9 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: >-
-      I am passionate about making a positive impact and reinforced my
-      commitment to social justice, environmental sustainability.
+    subtitle: inspire others or to accompany your volunteering description!
     items:
       - type: FeaturedItem
         title: 500k
