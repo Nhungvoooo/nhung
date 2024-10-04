@@ -432,7 +432,7 @@ sections:
       positive impact in the communities we serve.
     actions:
       - type: Button
-        label: More Details
+        label: Explore More
         altText: ''
         url: /Volunteering
         showIcon: false
