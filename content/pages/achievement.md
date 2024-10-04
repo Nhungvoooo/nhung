@@ -17,6 +17,7 @@ sections:
       - content/pages/blog/what-is-a-design-system.md
       - content/pages/blog/track-the-right-analytics-for-your-business.md
       - content/pages/blog/life-of-our-development-team.md
+      - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/this-is-a-blog-post-with-related-posts.md
     showThumbnail: true
     showExcerpt: true
