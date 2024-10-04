@@ -69,6 +69,11 @@ styles:
       - ml-0
       - mb-0
       - mr-0
+    padding:
+      - pt-11
+      - pl-11
+      - pb-11
+      - pr-11
 author: content/data/person5.json
 ---
 
