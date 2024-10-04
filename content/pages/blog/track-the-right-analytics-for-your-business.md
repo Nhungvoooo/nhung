@@ -65,10 +65,10 @@ styles:
   self:
     flexDirection: row-reverse
     margin:
-      - mt-12
-      - ml-12
-      - mb-12
-      - mr-12
+      - mt-0
+      - ml-0
+      - mb-0
+      - mr-0
 author: content/data/person5.json
 ---
 
