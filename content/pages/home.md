@@ -135,7 +135,7 @@ sections:
         type: FeaturedItem
     actions:
       - type: Button
-        label: More Details
+        label: More Insights
         altText: ''
         url: /Education
         showIcon: true
@@ -268,7 +268,7 @@ sections:
         tagline: 'Nov, 2023 - Presents'
     actions:
       - type: Button
-        label: Get started
+        label: Extra Particulars
         altText: ''
         url: /Experience
         showIcon: true
@@ -315,7 +315,7 @@ sections:
     showAuthor: true
     actions:
       - type: Button
-        label: More Details
+        label: Explore More
         altText: ''
         url: /Achievement
         showIcon: true
@@ -404,16 +404,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: GenericSection
     title:
       type: TitleBlock
@@ -473,42 +463,6 @@ sections:
     styles:
       self:
         alignItems: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Hobby
-      color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -585,6 +539,31 @@ sections:
       styles:
         self:
           textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Hobby
+      color: text-dark
+    subtitle: ''
+    text: >
+      I enjoy participating in races and marathons, which challenge me to set
+      and achieve personal goals while promoting a healthy lifestyle. Running is
+      not just a physical activity for me; it’s a passion that fuels my
+      determination and resilience.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Expressing myself through
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - title:
       text: ''
       color: text-dark
@@ -631,50 +610,9 @@ sections:
         flexDirection: col-reverse
         justifyContent: center
     type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: CarouselSection
-    title: null
     subtitle: Don't hesitate to say hello!
     items:
-      - title: Let's Collaborate Together
-        tagline: CONTACT ME
-        subtitle: 'Based on HCMC, Vietnam'
-        text: |
-          **Phone:** 0934 092 990
-
-          **Email:** <Nhungvo.works@gmail.com>
-
-          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
-        image:
-          url: /images/IMG_7800 copy.jpg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
       - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
@@ -716,6 +654,36 @@ sections:
           **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
         image:
           url: /images/IMG_4941.jpg
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: Let's Collaborate Together
+        tagline: CONTACT ME
+        subtitle: 'Based on HCMC, Vietnam'
+        text: |
+          **Phone:** 0934 092 990
+
+          **Email:** <Nhungvo.works@gmail.com>
+
+          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
+        image:
+          url: /images/IMG_7800 copy.jpg
           altText: Maria Walters
           styles:
             self:
