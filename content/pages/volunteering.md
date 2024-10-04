@@ -240,11 +240,7 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "As a dedicated member of the\_**HUFLIT Photography Club**, I actively engage in various activities that promote photography as an art form and a means of expression. The club provides a creative platform where photography enthusiasts come together to share knowledge, skills, and experiences.\n\n*   **Collaborative Projects:**\_Participated in group photo shoots, exhibitions, and competitions, enhancing both my technical skills and artistic vision.\n\n*   **Workshops and Training:**\_Attended workshops on various photography techniques, including portrait, landscape, and digital editing, to broaden my expertise.\n\n*   **Community Engagement:**\_Contributed to community events by capturing moments that highlight the vibrancy of campus life and local culture.\n\nBeing part of the HUFLIT Photography Club has not only allowed me to refine my photography skills but has also fostered a sense of community and collaboration among fellow photography enthusiasts.\n\n\n"
     actions: []
     media:
       type: VideoBlock
