@@ -79,31 +79,6 @@ sections:
       type: TitleBlock
       text: HUFLIT PHOTOGRAPHY CLUB
       color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: "As a dedicated member of the\_**HUFLIT Photography Club**, I actively engage in various activities that promote photography as an art form and a means of expression. The club provides a creative platform where photography enthusiasts come together to share knowledge, skills, and experiences.\n\n*   **Collaborative Projects:**\_Participated in group photo shoots, exhibitions, and competitions, enhancing both my technical skills and artistic vision.\n\n*   **Workshops and Training:**\_Attended workshops on various photography techniques, including portrait, landscape, and digital editing, to broaden my expertise.\n\n*   **Community Engagement:**\_Contributed to community events by capturing moments that highlight the vibrancy of campus life and local culture.\n\nBeing part of the HUFLIT Photography Club has not only allowed me to refine my photography skills but has also fostered a sense of community and collaboration among fellow photography enthusiasts.\n\n"
-    actions: []
-    badge:
-      type: Badge
-      label: Member of
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: HUFLIT PHOTOGRAPHY CLUB
-      color: text-dark
     subtitle: ''
     text: "As a dedicated member of the\_**HUFLIT Photography Club**, I actively engage in various activities that promote photography as an art form and a means of expression. The club provides a creative platform where photography enthusiasts come together to share knowledge, skills, and experiences.\n\n*   **Collaborative Projects:**\_Participated in group photo shoots, exhibitions, and competitions, enhancing both my technical skills and artistic vision.\n\n*   **Workshops and Training:**\_Attended workshops on various photography techniques, including portrait, landscape, and digital editing, to broaden my expertise.\n\n*   **Community Engagement:**\_Contributed to community events by capturing moments that highlight the vibrancy of campus life and local culture.\n\nBeing part of the HUFLIT Photography Club has not only allowed me to refine my photography skills but has also fostered a sense of community and collaboration among fellow photography enthusiasts.\n"
     actions: []
