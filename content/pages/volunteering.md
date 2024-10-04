@@ -234,7 +234,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: >-
+        Ho Chi Minh City University of Foreign Languages and Information
+        Technology (HUFLIT)
       color: text-dark
       styles:
         self:
