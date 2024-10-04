@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/Anh 05.jpg
+  url: /images/Anh 06.jpeg
   altText: Thumbnail
   type: ImageBlock
   styles:
