@@ -20,7 +20,7 @@ sections:
       positive impact in the communities we serve.
     actions:
       - type: Link
-        label: ''
+        label: iVolunteer Vietnam
         altText: ''
         url: 'https://ivolunteervietnam.com/'
         showIcon: true
