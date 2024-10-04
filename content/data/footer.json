@@ -89,15 +89,15 @@
             "type": "Social"
         },
         {
-            "altText": "Instagram link",
-            "url": "https://www.instagram.com/nhungvoooo/",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "nhungvo.works@gmail.com",
             "icon": "mail",
+            "type": "Social"
+        },
+        {
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/nhungvoooo/",
+            "icon": "instagram",
             "type": "Social"
         }
     ],
