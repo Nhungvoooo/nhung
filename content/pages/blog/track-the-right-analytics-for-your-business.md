@@ -63,7 +63,7 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: col-reverse
+    flexDirection: row-reverse
 author: content/data/person5.json
 ---
 
