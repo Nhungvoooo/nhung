@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: iVolunteer Vietnam
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Volunteer Vietnam is a non-profit organization dedicated to volunteering
       and community development across the country. I have had the privilege of
