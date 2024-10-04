@@ -38,7 +38,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Volunteering
+      label: Member of
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
