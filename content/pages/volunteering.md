@@ -22,7 +22,7 @@ sections:
       - type: Link
         label: ''
         altText: ''
-        url: /
+        url: 'https://ivolunteervietnam.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
