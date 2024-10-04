@@ -622,10 +622,6 @@ sections:
         justifyContent: center
     type: GenericSection
   - type: CarouselSection
-    title:
-      type: TitleBlock
-      text: This Is A Big Headline
-      color: text-dark
     subtitle: Don't hesitate to say hello!
     items:
       - title: Let's Collaborate Together
