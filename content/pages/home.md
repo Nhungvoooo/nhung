@@ -580,6 +580,10 @@ sections:
           - mr-20
       subtitle:
         textAlign: center
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - title:
       text: ''
       color: text-dark
