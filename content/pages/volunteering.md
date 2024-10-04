@@ -336,7 +336,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: HUFLIT PHOTOGRAPHY CLUB
       color: text-dark
     subtitle: Be in good company
     text: >
