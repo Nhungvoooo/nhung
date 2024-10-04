@@ -8,7 +8,7 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/Anh 1.jpeg
+  url: /images/Anh 06.jpeg
   altText: Thumbnail
   type: ImageBlock
   styles:
