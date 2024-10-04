@@ -369,7 +369,7 @@ sections:
             - mr-24
     badge:
       type: Badge
-      label: This is a badge
+      label: Member of
       color: text-primary
     colors: bg-light-fg-dark
     styles:
