@@ -90,7 +90,7 @@
         },
         {
             "altText": "Email link",
-            "url": "nhungvo.works@gmail.com",
+            "url": "mailto:nhungvo.works@gmail.com",
             "icon": "mail",
             "type": "Social"
         },
