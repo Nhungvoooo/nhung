@@ -53,7 +53,7 @@
                 },
                 {
                     "label": "Volunteering",
-                    "url": "/Voluteering",
+                    "url": "/Volunteering",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
