@@ -117,7 +117,8 @@
             "icon": "linkedin",
             "iconPosition": "left",
             "style": "secondary",
-            "elementId": ""
+            "elementId": "",
+            "label": "Linkedin"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
