@@ -32,7 +32,7 @@ sections:
         label: iVolunteer Vietnam
         altText: ''
         url: 'https://ivolunteervietnam.com/'
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
