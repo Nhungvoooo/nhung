@@ -64,6 +64,11 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row-reverse
+    margin:
+      - mt-12
+      - ml-12
+      - mb-12
+      - mr-12
 author: content/data/person5.json
 ---
 
