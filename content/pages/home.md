@@ -570,7 +570,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: Enjoying
+      label: Expressing myself through
       color: text-primary
     colors: bg-light-fg-dark
     styles:
