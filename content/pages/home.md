@@ -476,7 +476,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Hobby
       color: text-dark
     subtitle: Be in good company
     text: >
@@ -512,11 +512,9 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Publications
+        title: INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY
         tagline: ''
-        subtitle: >-
-          INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY IN
-          VIETNAMESE BUSINESSES
+        subtitle: 'Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.'
         text: >+
           1.  **Released in the 5th International Conference on Business - ICB
           2023.**
@@ -580,6 +578,13 @@ sections:
           - mr-20
       subtitle:
         textAlign: center
+    title:
+      type: TitleBlock
+      text: PUBLICATIONS
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title:
       text: ''
       color: text-dark
