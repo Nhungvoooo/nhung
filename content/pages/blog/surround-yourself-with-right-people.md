@@ -31,6 +31,5 @@ The certificate of Achievement recognizes the successful completion of the Sales
 **3. Data Management:** Understand best practices for data import, export, and maintenance, including data quality and integrity.
 **4. Automation Tools:** Explore automation features such as Process Builder, Workflow Rules, and Flow to streamline business processes.
 **5. Reporting and Dashboards:** Develop skills in creating insightful reports and dashboards to track performance metrics and support decision-making.
-**6. Customization:** Learn how to tailor Salesforce to meet specific organizational needs through custom objects, fields, and page layouts.
+**6. Customization:** Learn how to tailor Salesforce to meet specific organizational needs through custom objects, fields, and page layouts.![](/images/Anh%2005.jpg)
 
-![](/images/Anh%2005.jpg)
