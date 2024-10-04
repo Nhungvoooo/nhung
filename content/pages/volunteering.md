@@ -268,7 +268,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Key Benefits
+      label: Member of
       color: text-primary
       styles:
         self:
