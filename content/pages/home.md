@@ -460,7 +460,7 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
