@@ -5,6 +5,34 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: HUFLIT PHOTOGRAPHY CLUB
+      color: text-dark
+    subtitle: ''
+    text: "As a dedicated member of the\_HUFLIT Photography Club, I actively engage in various activities that promote photography as an art form and a means of expression. The club provides a creative platform where photography enthusiasts come together to share knowledge, skills, and experiences.\n\n*   **Collaborative Projects:**\_Participated in group photo shoots, exhibitions, and competitions, enhancing both my technical skills and artistic vision.\n\n*   **Workshops and Training:\_**Attended workshops on various photography techniques, including portrait, landscape, and digital editing, to broaden my expertise.\n\n*   **Community Engagement:** Contributed to community events by capturing moments that highlight the vibrancy of campus life and local culture.\n\nBeing part of the HUFLIT Photography Club has not only allowed me to refine my photography skills but has also fostered a sense of community and collaboration among fellow photography enthusiasts.\n"
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/1720512750203.jpeg
+      altText: Dope design preview
+      styles:
+        self:
+          margin:
+            - mt-24
+            - ml-24
+            - mb-24
+            - mr-24
+    badge:
+      type: Badge
+      label: Member of
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: iVolunteer Vietnam
       color: text-dark
     subtitle: ''
@@ -64,34 +92,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: HUFLIT PHOTOGRAPHY CLUB
-      color: text-dark
-    subtitle: ''
-    text: "As a dedicated member of the\_HUFLIT Photography Club, I actively engage in various activities that promote photography as an art form and a means of expression. The club provides a creative platform where photography enthusiasts come together to share knowledge, skills, and experiences.\n\n*   **Collaborative Projects:**\_Participated in group photo shoots, exhibitions, and competitions, enhancing both my technical skills and artistic vision.\n\n*   **Workshops and Training:\_**Attended workshops on various photography techniques, including portrait, landscape, and digital editing, to broaden my expertise.\n\n*   **Community Engagement:** Contributed to community events by capturing moments that highlight the vibrancy of campus life and local culture.\n\nBeing part of the HUFLIT Photography Club has not only allowed me to refine my photography skills but has also fostered a sense of community and collaboration among fellow photography enthusiasts.\n"
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/1720512750203.jpeg
-      altText: Dope design preview
-      styles:
-        self:
-          margin:
-            - mt-24
-            - ml-24
-            - mb-24
-            - mr-24
-    badge:
-      type: Badge
-      label: Member of
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: CarouselSection
     subtitle: Don't hesitate to say hello!
     items:
