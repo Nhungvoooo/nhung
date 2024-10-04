@@ -28,10 +28,6 @@ isFeatured: false
 ---
 The **International Conference on Business (ICB) 2023** is a premier event that brings together academics, industry professionals, and thought leaders from around the globe to discuss the latest trends, challenges, and innovations in the field of business. This conference serves as a platform for presenting research, exchanging ideas, and promoting best practices, all aimed at advancing the field of business and enhancing professional development.
 
-This certifies that my team has successfully presented the article titled **"Intention to Accept Smart Contracts based on Blockchain Technology"** at the **International Conference on Business (ICB) 2023** held on  in Ho Chi Minh City Open University.
+This certifies that my team has successfully presented the article titled **"Intention to Accept Smart Contracts based on Blockchain Technology"** at the **International Conference on Business (ICB) 2023** held on 12th December 2023 in Ho Chi Minh City Open University.
 
-
-
-
-
-
+![](/images/Anh%2006.jpeg)
