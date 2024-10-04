@@ -360,6 +360,13 @@ sections:
       type: ImageBlock
       url: /images/1720512750203.jpeg
       altText: Dope design preview
+      styles:
+        self:
+          margin:
+            - mt-24
+            - ml-24
+            - mb-24
+            - mr-24
     badge:
       type: Badge
       label: This is a badge
