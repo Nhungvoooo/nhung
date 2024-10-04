@@ -2,6 +2,37 @@
 type: PageLayout
 title: Volunteering
 sections:
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: VOLUNTEERING
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+    subtitle: Be the change you wish to see in the world.
+    items: []
+    actions: []
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
