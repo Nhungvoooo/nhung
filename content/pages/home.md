@@ -546,10 +546,10 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Running is not just a physical activity for me; it’s a passion that fuels
-      my determination and resilience. I enjoy participating in races and
-      marathons, which challenge me to set and achieve personal goals while
-      promoting a healthy lifestyle.
+      I enjoy participating in races and marathons, which challenge me to set
+      and achieve personal goals while promoting a healthy lifestyle. Running is
+      not just a physical activity for me; it’s a passion that fuels my
+      determination and resilience.
     actions:
       - type: Button
         label: Get started
