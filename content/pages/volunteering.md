@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: inspire others or to accompany your volunteering description!
+    subtitle: >-
+      "Your effort can lead to transformative experiences for both you and your
+      community!"
     items:
       - type: FeaturedItem
         title: 500k
