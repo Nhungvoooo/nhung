@@ -28,6 +28,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /Volunteering
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/1715852439811.jpg
