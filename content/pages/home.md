@@ -582,7 +582,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: PUBLICATIONS
       color: text-dark
   - title:
       text: ''
