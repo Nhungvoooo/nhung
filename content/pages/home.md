@@ -539,7 +539,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'n'
+    subtitle: ''
   - type: GenericSection
     title:
       type: TitleBlock
