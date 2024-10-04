@@ -14,7 +14,7 @@ sections:
     items: []
     actions:
       - type: Link
-        label: See Tutorials
+        label: Below
         altText: ''
         url: /
         showIcon: false
