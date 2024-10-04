@@ -83,15 +83,15 @@
     },
     "socialLinks": [
         {
-            "altText": "Instagram link",
-            "url": "https://www.instagram.com/nhungvoooo/",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/in/nhungvoooo/",
             "icon": "linkedin",
+            "type": "Social"
+        },
+        {
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/nhungvoooo/",
+            "icon": "instagram",
             "type": "Social"
         },
         {
