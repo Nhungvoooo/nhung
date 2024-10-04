@@ -52,29 +52,10 @@
                     "type": "Link"
                 },
                 {
+                    "type": "Link",
                     "label": "Volunteering",
+                    "altText": "",
                     "url": "/Volunteering",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "type": "Link",
-                    "label": "Achievement",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Volunteering",
-                    "altText": "",
-                    "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
