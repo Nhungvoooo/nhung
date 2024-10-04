@@ -58,7 +58,7 @@ styles:
     flexDirection: row
 author: content/data/person4.json
 ---
-On July 17th, 2023, I successfully defended my dissertation titled **"**Intention to Accept Smart Contracts based on Blockchain Technology**"** at Ho Chi Minh City University of Foreign Languages – Information Technology. This milestone marks the culmination of my research journey in the field of Logistíc domain, where I explored  I explored the factors influencing the intention to accept smart contracts powered by blockchain technology. This research aimed to understand the perceptions, motivations, and barriers faced by individuals and organizations when considering the adoption of smart contracts.
+On July 17th, 2023, I successfully defended my dissertation titled **"Intention to Accept Smart Contracts based on Blockchain Technology"** at **Ho Chi Minh City University of Foreign Languages – Information Technology**. This milestone marks the culmination of my research journey in the field of Logistíc domain, where I explored  I explored the factors influencing the intention to accept smart contracts powered by blockchain technology. This research aimed to understand the perceptions, motivations, and barriers faced by individuals and organizations when considering the adoption of smart contracts.
 
 During the defense, I presented my findings, methodology, and contributions to the field to a committee of esteemed scholars. The feedback received was overwhelmingly positive, highlighting the originality and significance of my work. I was honored to engage in thoughtful discussions and address questions that further illuminated the implications of my research.
 
