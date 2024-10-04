@@ -23,7 +23,7 @@ sections:
         label: More Details
         altText: ''
         url: /Volunteering
-        showIcon: false
+        showIcon: true
         icon: chevronRight
         iconPosition: right
         style: primary
