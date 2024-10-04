@@ -20,7 +20,7 @@ sections:
       positive impact in the communities we serve.
     actions:
       - type: Button
-        label: Get started
+        label: More Details
         altText: ''
         url: /Volunteering
         showIcon: false
