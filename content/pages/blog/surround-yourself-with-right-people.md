@@ -35,8 +35,6 @@ The certificate of Achievement recognizes the successful completion of the Sales
 
 5.  ***Reporting and Dashboards:** Develop skills in creating insightful reports and dashboards to track performance metrics and support decision-making.*
 
-6.  ***Customization:** Learn how to tailor Salesforce to meet specific organizational needs through custom objects, fields, and page layouts.*
-
-7.  ![](/images/Anh%2005.jpg)
+6.  ***Customization:** Learn how to tailor Salesforce to meet specific organizational needs through custom objects, fields, and page layouts.*![](/images/Anh%2005.jpg)
 
 The Salesforce Administrator Certificate is a professional credential that helps me possess the skills and knowledge necessary to effectively manage and configure Salesforce applications. This certification validates a candidate's ability to implement and manage Salesforce solutions that meet business needs.
