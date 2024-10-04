@@ -544,7 +544,7 @@ sections:
       type: TitleBlock
       text: Hobby
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       Running is not just a physical activity for me; it’s a passion that fuels
       my determination and resilience. I enjoy participating in races and
