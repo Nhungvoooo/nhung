@@ -514,9 +514,7 @@ sections:
       - type: FeaturedItem
         title: Publications
         tagline: ''
-        subtitle: >-
-          INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY IN
-          VIETNAMESE BUSINESSES
+        subtitle: ''
         text: >+
           1.  **Released in the 5th International Conference on Business - ICB
           2023.**
