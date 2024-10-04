@@ -15,7 +15,6 @@ sections:
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
       - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/what-is-a-design-system.md
-      - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/track-the-right-analytics-for-your-business.md
       - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/this-is-a-blog-post-with-related-posts.md
