@@ -14,6 +14,11 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
+      margin:
+        - mt-7
+        - ml-7
+        - mb-7
+        - mr-7
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
   efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium
