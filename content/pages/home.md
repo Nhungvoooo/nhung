@@ -551,12 +551,6 @@ sections:
       not just a physical activity for me; it’s a passion that fuels my
       determination and resilience.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
