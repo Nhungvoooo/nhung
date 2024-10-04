@@ -72,17 +72,6 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Volunteering",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
                     "label": "Publication",
                     "altText": "",
                     "url": "/",
