@@ -42,6 +42,13 @@ sections:
       url: /images/1715852439811.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
+      styles:
+        self:
+          margin:
+            - mt-24
+            - ml-24
+            - mb-24
+            - mr-24
     badge:
       type: Badge
       label: Member of
