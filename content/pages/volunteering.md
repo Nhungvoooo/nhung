@@ -236,7 +236,7 @@ sections:
       type: TitleBlock
       text: >-
         Ho Chi Minh City University of Foreign Languages and Information
-        Technology (HUFLIT)
+        Technology (HUFLIT) PHOTOGRAPHY CLUB
       color: text-dark
       styles:
         self:
