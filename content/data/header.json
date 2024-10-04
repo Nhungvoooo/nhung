@@ -112,12 +112,13 @@
         {
             "type": "Link",
             "altText": "LinkedIn",
-            "url": "",
+            "url": "https://www.linkedin.com/in/nhungvoooo/",
             "showIcon": true,
             "icon": "linkedin",
             "iconPosition": "left",
             "style": "secondary",
-            "elementId": ""
+            "elementId": "",
+            "label": "Linkedin"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
