@@ -514,7 +514,7 @@ sections:
       - type: FeaturedItem
         title: INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY
         tagline: ''
-        subtitle: ''
+        subtitle: 'Logictics Domain, '
         text: >+
           1.  **Released in the 5th International Conference on Business - ICB
           2023.**
