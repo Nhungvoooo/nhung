@@ -576,7 +576,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
   - title:
-      text: ''
+      text: Hình
       color: text-dark
       type: TitleBlock
     subtitle: ''
