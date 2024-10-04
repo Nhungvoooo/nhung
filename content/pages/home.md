@@ -431,15 +431,6 @@ sections:
       self-positioning. Together, we can empower each other and create a
       positive impact in the communities we serve.
     actions:
-      - type: Link
-        label: iVolunteering here
-        altText: Play
-        url: 'https://ivolunteervietnam.com/'
-        showIcon: true
-        icon: play
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - type: Button
         label: Get started
         altText: ''
@@ -448,6 +439,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: ''
+      - type: Link
+        label: iVolunteering here
+        altText: Play
+        url: 'https://ivolunteervietnam.com/'
+        showIcon: true
+        icon: play
+        iconPosition: right
+        style: secondary
         elementId: ''
     media:
       type: ImageBlock
