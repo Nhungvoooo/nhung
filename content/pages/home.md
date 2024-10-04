@@ -135,7 +135,7 @@ sections:
         type: FeaturedItem
     actions:
       - type: Button
-        label: More insights
+        label: More Insights
         altText: ''
         url: /Education
         showIcon: true
