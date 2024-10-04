@@ -1,5 +1,5 @@
 ---
-title: Certificate of Achievement
+title: 'Certificate of Achievement: Salesforce Administrator'
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
 excerpt: >-
