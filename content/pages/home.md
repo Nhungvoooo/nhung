@@ -506,7 +506,7 @@ sections:
                 - pb-0
                 - pr-0
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
