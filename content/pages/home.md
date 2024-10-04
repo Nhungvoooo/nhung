@@ -315,7 +315,7 @@ sections:
     showAuthor: true
     actions:
       - type: Button
-        label: More Details
+        label: Explore More
         altText: ''
         url: /Achievement
         showIcon: true
