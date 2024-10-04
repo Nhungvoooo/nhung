@@ -1,7 +1,7 @@
 ---
 title: 'Certificate of Participation: Presented Article at ICB 2023'
 slug: life-of-our-development-team
-date: '2023-12-27'
+date: '2023-12-01'
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
   earum corporis id Quis esse est galisum officiis accusantium enim et
