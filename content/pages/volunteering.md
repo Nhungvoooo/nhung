@@ -10,9 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: >-
-      "Your effort can lead to transformative experiences for both you and your
-      community!"
+    subtitle: Be the change you wish to see in the world.
     items:
       - type: FeaturedItem
         title: 500k
