@@ -1,7 +1,7 @@
 ---
 title: 'Certificate of Achievement: Salesforce Administrator'
 slug: surround-yourself-with-right-people
-date: ''
+date: '2024-09-05'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
