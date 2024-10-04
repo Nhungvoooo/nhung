@@ -29,7 +29,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: iVolunteer Vietnam
+        label: iVolunteer Vietnam Site
         altText: ''
         url: 'https://ivolunteervietnam.com/'
         showIcon: true
