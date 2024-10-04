@@ -234,9 +234,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        Ho Chi Minh City University of Foreign Languages and Information
-        Technology (HUFLIT) PHOTOGRAPHY CLUB
+      text: HUFLIT PHOTOGRAPHY CLUB
       color: text-dark
       styles:
         self:
