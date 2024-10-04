@@ -20,7 +20,7 @@ sections:
       positive impact in the communities we serve.
     actions:
       - type: Link
-        label: See Tutorials
+        label: ''
         altText: ''
         url: /
         showIcon: true
