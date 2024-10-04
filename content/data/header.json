@@ -52,14 +52,6 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Volunteering",
-                    "url": "/Volunteering",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "type": "Link",
                     "label": "Volunteering",
                     "altText": "",
