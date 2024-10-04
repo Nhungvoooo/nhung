@@ -550,14 +550,7 @@ sections:
       and achieve personal goals while promoting a healthy lifestyle. Running is
       not just a physical activity for me; it’s a passion that fuels my
       determination and resilience.
-    actions:
-      - type: Link
-        label: ''
-        url: ''
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero3.svg
