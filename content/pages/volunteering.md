@@ -33,7 +33,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/main-hero.svg
+      url: /images/1715852439811.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
