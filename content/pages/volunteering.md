@@ -19,15 +19,6 @@ sections:
       self-positioning. Together, we can empower each other and create a
       positive impact in the communities we serve.
     actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - type: Link
         label: See Tutorials
         altText: ''
