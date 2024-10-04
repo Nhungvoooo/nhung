@@ -268,7 +268,7 @@ sections:
         tagline: 'Nov, 2023 - Presents'
     actions:
       - type: Button
-        label: More Details
+        label: Extra particulars
         altText: ''
         url: /Experience
         showIcon: true
