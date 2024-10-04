@@ -546,8 +546,10 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Running is not just a physical activity for me; it’s a passion that fuels
+      my determination and resilience. I enjoy participating in races and
+      marathons, which challenge me to set and achieve personal goals while
+      promoting a healthy lifestyle.
     actions:
       - type: Button
         label: Get started
