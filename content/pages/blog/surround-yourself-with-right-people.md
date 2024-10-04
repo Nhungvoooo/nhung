@@ -25,17 +25,17 @@ isFeatured: false
 ---
 The certificate of Achievement recognizes the successful completion of the Salesforce Administrator Course by TalentForce. This comprehensive program equips individuals with the essential skills and knowledge to effectively manage and optimize Salesforce environments.
 
-> 1.  **Fundamentals of Salesforce:** Gain a solid understanding of Salesforce architecture, features, and capabilities.
+> 1.  ***Fundamentals of Salesforce:** Gain a solid understanding of Salesforce architecture, features, and capabilities.*
 >
-> 2.  **User Management:** Learn how to create and manage user accounts, profiles, and permissions to ensure secure access.
+> 2.  ***User Management:** Learn how to create and manage user accounts, profiles, and permissions to ensure secure access.*
 >
-> 3.  **Data Management:** Understand best practices for data import, export, and maintenance, including data quality and integrity.
+> 3.  ***Data Management:** Understand best practices for data import, export, and maintenance, including data quality and integrity.*
 >
-> 4.  **Automation Tools:** Explore automation features such as Process Builder, Workflow Rules, and Flow to streamline business processes.
+> 4.  ***Automation Tools:** Explore automation features such as Process Builder, Workflow Rules, and Flow to streamline business processes.*
 >
-> 5.  **Reporting and Dashboards:** Develop skills in creating insightful reports and dashboards to track performance metrics and support decision-making.
+> 5.  ***Reporting and Dashboards:** Develop skills in creating insightful reports and dashboards to track performance metrics and support decision-making.*
 >
-> 6.  **Customization:** Learn how to tailor Salesforce to meet specific organizational needs through custom objects, fields, and page layouts.
+> 6.  ***Customization:** Learn how to tailor Salesforce to meet specific organizational needs through custom objects, fields, and page layouts.*
 
 ![](/images/Anh%2005.jpg)
 
