@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Member of iVolunteer Vietnam
+      text: iVolunteer Vietnam
       color: text-dark
     subtitle: Subtitle goes here
     text: >
