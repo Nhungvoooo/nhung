@@ -60,7 +60,7 @@
                 "type": "Link",
                 "label": "Publications",
                 "altText": "",
-                "url": "/",
+                "url": "/Home",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
