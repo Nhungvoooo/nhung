@@ -15,10 +15,10 @@ featuredImage:
     self:
       borderRadius: medium
       margin:
-        - mt-0
-        - ml-0
-        - mb-0
-        - mr-0
+        - mt-24
+        - ml-24
+        - mb-24
+        - mr-24
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
   efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium
