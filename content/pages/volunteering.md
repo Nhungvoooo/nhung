@@ -19,20 +19,20 @@ sections:
       self-positioning. Together, we can empower each other and create a
       positive impact in the communities we serve.
     actions:
-      - type: Link
-        label: iVolunteer Vietnam
-        altText: ''
-        url: 'https://ivolunteervietnam.com/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Button
         label: Get started
         altText: ''
         url: /Volunteering
         showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: iVolunteer Vietnam
+        altText: ''
+        url: 'https://ivolunteervietnam.com/'
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
