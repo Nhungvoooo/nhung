@@ -584,6 +584,9 @@ sections:
       type: TitleBlock
       text: PUBLICATIONS
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title:
       text: ''
       color: text-dark
