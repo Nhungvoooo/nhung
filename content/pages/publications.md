@@ -111,7 +111,7 @@ sections:
               https://drive.google.com/file/d/1V2D_XUAtZnVvgEoAJOKmuNAp6hWgUFn5/view
             showIcon: true
             icon: arrowRight
-            iconPosition: left
+            iconPosition: right
             style: secondary
             elementId: ''
         colors: bg-neutralAlt-fg-dark
