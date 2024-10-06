@@ -121,7 +121,7 @@ sections:
       - type: FeaturedItem
         title: 'Springer: Disruptive Technology and Business Continuity 2024'
         tagline: ''
-        subtitle: Springer Science and Business Media
+        subtitle: "Springer\_Publishing Company"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
