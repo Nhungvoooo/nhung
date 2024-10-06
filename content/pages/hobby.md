@@ -33,10 +33,7 @@ sections:
       text: Me&Pet Run 2024
       color: text-dark
     subtitle: ''
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "I’m thrilled to participate in the\_**Me & Pet Run 2024**! This event is a wonderful opportunity to celebrate the special bond between pets and their owners. Whether it’s running alongside my furry companion or simply enjoying a leisurely walk, I’m excited to embrace this day filled with fun and community spirit.\n"
     actions:
       - type: Link
         label: See Tutorials
