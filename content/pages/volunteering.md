@@ -78,15 +78,6 @@ sections:
       self-positioning. Together, we can empower each other and create a
       positive impact in the communities we serve.
     actions:
-      - type: Button
-        label: More Details
-        altText: ''
-        url: /Volunteering
-        showIcon: true
-        icon: chevronRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: iVolunteer Vietnam Site
         altText: ''
