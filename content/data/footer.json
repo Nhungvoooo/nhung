@@ -82,7 +82,7 @@
                 "type": "Link",
                 "label": "Contact",
                 "altText": "",
-                "url": "/Home",
+                "url": "/Contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
