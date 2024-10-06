@@ -90,6 +90,14 @@ sections:
           professionals to share insights and advancements in the field of
           business. This year's conference aims to foster collaboration and
           innovation across various disciplines within business studies.
+
+
+          The adoption of smart contracts based on blockchain technology
+          represents a transformative shift in how agreements are executed and
+          enforced across various industries. Smart contracts are self-executing
+          contracts with the terms of the agreement directly written into code.
+          This innovation enhances transparency, security, and efficiency in
+          transactions.
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-10-06 at 12.59.36.png
