@@ -82,7 +82,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: the 5th International Conference on Business - ICB 2023.
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
