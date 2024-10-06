@@ -78,7 +78,7 @@
                     "label": "Play",
                     "altText": "Play",
                     "url": "/Hobbies",
-                    "showIcon": true,
+                    "showIcon": false,
                     "icon": "play",
                     "iconPosition": "right",
                     "style": "secondary",
