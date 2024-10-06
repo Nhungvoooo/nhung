@@ -84,10 +84,12 @@ sections:
         title: The 5th International Conference on Business - ICB 2023.
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The 5th International Conference on Business (ICB 2023) serves as a
+          premier platform for academics, researchers, and industry
+          professionals to share insights and advancements in the field of
+          business. This year's conference aims to foster collaboration and
+          innovation across various disciplines within business studies.
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-10-06 at 12.59.36.png
