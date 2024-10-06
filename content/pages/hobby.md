@@ -76,14 +76,7 @@ sections:
       with fellow runners, share our passion for fitness, and inspire one
       another. I look forward to the camaraderie, motivation, and support from
       everyone involved.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/IMG_7100.JPG
