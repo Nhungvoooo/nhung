@@ -150,7 +150,7 @@ sections:
               https://link.springer.com/book/10.1007/978-981-97-5452-6?sap-outbound-id=6FC73683E8D5C225A3F801BBBE6CF98C4748DF4C&utm_source=standard&utm_medium=email&utm_campaign=000_LAN36_0000019083_Book+author+congrats+NEW&utm_content=EN_34155_20240903&mkt-key=F7A1A70A77311EEF99E1D7921D7F483A
             showIcon: true
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
         colors: bg-neutral-fg-dark
