@@ -556,7 +556,7 @@ sections:
         label: See Tutorials
         altText: ''
         url: /Hobbies
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
