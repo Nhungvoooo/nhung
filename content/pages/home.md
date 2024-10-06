@@ -640,11 +640,10 @@ sections:
           **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
 
 
-          `<a href="https://www.linkedin.com/in/nhungvoooo" target="_blank"
-          style="text-decoration: none;">     <img
-          src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"
-          alt="LinkedIn Logo" style="width: 40px; height: 40px; vertical-align:
-          middle;"/> </a>`
+          <a href="https\://www\.linkedin.com/in/nhungvoooo" target="\_blank"
+          style="text-decoration: none;">
+              <img src="https\://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn\_Logo.svg" alt="LinkedIn Logo" style="width: 40px; height: 40px; vertical-align: middle;"/>
+          </a>
 
         image:
           url: /images/IMG_3141.jpg
