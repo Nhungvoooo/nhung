@@ -121,7 +121,7 @@ sections:
       - type: FeaturedItem
         title: 'Springer: Disruptive Technology and Business Continuity 2024'
         tagline: ''
-        subtitle: Be in good company
+        subtitle: Springer Science+Business Media
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
