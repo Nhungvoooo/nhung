@@ -83,7 +83,7 @@ sections:
       - type: FeaturedItem
         title: The 5th International Conference on Business - ICB 2023.
         tagline: ''
-        subtitle: ''
+        subtitle: FINANCE PUBLISHING HOUSE
         text: >
           The 5th International Conference on Business (ICB 2023) serves as a
           premier platform for academics, researchers, and industry
