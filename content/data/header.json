@@ -75,7 +75,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Play",
+                    "label": "Hobbies",
                     "altText": "Hobbies",
                     "url": "/Hobbies",
                     "showIcon": false,
