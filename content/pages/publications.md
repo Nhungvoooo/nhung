@@ -82,12 +82,20 @@ sections:
     items:
       - type: FeaturedItem
         title: The 5th International Conference on Business - ICB 2023.
-        tagline: Section 1
-        subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        tagline: ''
+        subtitle: FINANCE PUBLISHING HOUSE
+        text: >
+          The 5th International Conference on Business (ICB 2023) serves as a
+          premier platform for academics, researchers, and industry
+          professionals to share insights and advancements in the field of
+          business. This year's conference aims to foster collaboration and
+          innovation across various disciplines within business studies. The
+          adoption of smart contracts based on blockchain technology represents
+          a transformative shift in how agreements are executed and enforced
+          across various industries. Smart contracts are self-executing
+          contracts with the terms of the agreement directly written into code.
+          This innovation enhances transparency, security, and efficiency in
+          transactions.
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-10-06 at 12.59.36.png
@@ -95,6 +103,103 @@ sections:
           styles:
             self:
               borderRadius: medium
+        actions:
+          - type: Link
+            label: Read Article
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1V2D_XUAtZnVvgEoAJOKmuNAp6hWgUFn5/view
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: 'Springer: Disruptive Technology and Business Continuity 2024'
+        tagline: ''
+        subtitle: "Springer\_Publishing Company"
+        text: >
+          The "Disruptive Technology and Business Continuity 2024" publication
+          by Springer delves into the intersection of emerging technologies and
+          the strategies organizations employ to maintain operational resilience
+          in an ever-evolving business landscape. This collection aims to
+          explore how disruptive technologies can be harnessed to not only
+          survive but thrive in times of change. The intention to accept smart
+          contracts based on blockchain technology is gaining momentum as
+          organizations seek to leverage its benefits. As awareness grows and
+          technological advancements continue, smart contracts are poised to
+          revolutionize traditional contract processes, driving efficiency and
+          innovation across multiple sectors.
+        image:
+          type: ImageBlock
+          url: /images/1725606601476.jpeg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Link
+            label: Read Article
+            altText: ''
+            url: >-
+              https://link.springer.com/book/10.1007/978-981-97-5452-6?sap-outbound-id=6FC73683E8D5C225A3F801BBBE6CF98C4748DF4C&utm_source=standard&utm_medium=email&utm_campaign=000_LAN36_0000019083_Book+author+congrats+NEW&utm_content=EN_34155_20240903&mkt-key=F7A1A70A77311EEF99E1D7921D7F483A
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: dots-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    subtitle: Don't hesitate to say hello!
+    items:
+      - type: FeaturedItem
+        title: Let's Collaborate Together
+        tagline: CONTACT ME
+        subtitle: 'Based on HCMC, Vietnam'
+        text: |
+          **Phone:** 0934 092 990
+
+          **Email:** <Nhungvo.works@gmail.com>
+
+          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
+        image:
+          type: ImageBlock
+          url: /images/IMG_3141.jpg
+          altText: John Doe
+          styles:
+            self:
+              borderRadius: full
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -109,23 +214,24 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
-        tagline: Section 2
-        subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Let's Collaborate Together
+        tagline: CONTACT ME
+        subtitle: 'Based on HCMC, Vietnam'
+        text: |
+          **Phone:** 0934 092 990
+
+          **Email:** <Nhungvo.works@gmail.com>
+
+          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
+          url: /images/IMG_4941.jpg
+          altText: Maria Walters
           styles:
             self:
-              borderRadius: medium
+              borderRadius: full
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -137,170 +243,40 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: A team that works closely together
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    colors: bg-neutral-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/abstract-background.svg
-      altText: Placeholder image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-    styles:
-      self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Meet the team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Open positions
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Subtitle goes here
-    items:
       - type: FeaturedItem
-        title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Let's Collaborate Together
+        tagline: CONTACT ME
+        subtitle: 'Based on HCMC, Vietnam'
+        text: |
+          **Phone:** 0934 092 990
+
+          **Email:** <Nhungvo.works@gmail.com>
+
+          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
+        image:
+          type: ImageBlock
+          url: /images/IMG_7800 copy.jpg
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
             textAlign: left
-            borderRadius: x-large
+            borderRadius: large
             flexDirection: row
             justifyContent: center
-      - type: FeaturedItem
-        title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    variant: toggle-list
+    variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
       self:
-        padding:
-          - pb-40
-          - pt-16
-          - pl-3
-          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
