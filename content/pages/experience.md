@@ -59,7 +59,7 @@ sections:
     plans:
       - type: PricingPlan
         title: HP Logistics JSC
-        price: Business Development Intern
+        price: Business Development
         details: 'Dec, 2022 - Dec 2023'
         description: >+
           As a Business Development, I focus on identifying growth opportunities
