@@ -103,7 +103,17 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1V2D_XUAtZnVvgEoAJOKmuNAp6hWgUFn5/view
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
