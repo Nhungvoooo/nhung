@@ -63,7 +63,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Smartheart
+      label: Smart heart
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
