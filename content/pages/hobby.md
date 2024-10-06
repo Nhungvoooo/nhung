@@ -42,7 +42,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Smart heart
+      label: '#Smartheart #PETPRince'
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
