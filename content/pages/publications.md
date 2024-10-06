@@ -105,7 +105,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Link
-            label: See Tutorials
+            label: Extra Particulars
             altText: ''
             url: >-
               https://drive.google.com/file/d/1V2D_XUAtZnVvgEoAJOKmuNAp6hWgUFn5/view
