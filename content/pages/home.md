@@ -543,7 +543,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: AHobby
+      text: Hobby
       color: text-dark
     subtitle: ''
     text: >
