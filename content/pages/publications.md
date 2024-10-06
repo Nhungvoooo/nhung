@@ -82,7 +82,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: the 5th International Conference on Business - ICB 2023.
+        title: The 5th International Conference on Business - ICB 2023.
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
