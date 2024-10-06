@@ -122,10 +122,13 @@ sections:
         title: 'Springer: Disruptive Technology and Business Continuity 2024'
         tagline: ''
         subtitle: "Springer\_Publishing Company"
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The "Disruptive Technology and Business Continuity 2024" publication
+          by Springer delves into the intersection of emerging technologies and
+          the strategies organizations employ to maintain operational resilience
+          in an ever-evolving business landscape. This collection aims to
+          explore how disruptive technologies can be harnessed to not only
+          survive but thrive in times of change.
         image:
           type: ImageBlock
           url: /images/1725606601476.jpeg
