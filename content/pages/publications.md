@@ -83,7 +83,7 @@ sections:
     items:
       - type: FeaturedItem
         title: The 5th International Conference on Business - ICB 2023.
-        tagline: Section 1
+        tagline: Section
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -111,7 +111,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Business Consulting
-        tagline: Feature 2
+        tagline: Section 2
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
