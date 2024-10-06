@@ -246,7 +246,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /Hobby
+slug: /Hobbies
 seo:
   type: Seo
   metaTitle: Home - Demo site
