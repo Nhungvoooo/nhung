@@ -90,7 +90,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/IMG_7059 2-min.jpg
+      url: /images/2494425D-12C5-495C-865E-651ADA45CC86.JPEG
       altText: Fun feature preview
       styles:
         self:
