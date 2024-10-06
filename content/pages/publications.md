@@ -120,7 +120,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 'Springer: Disruptive Technology and Business Continuity 2024'
-        tagline: Section 2
+        tagline: ''
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
