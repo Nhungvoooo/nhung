@@ -553,7 +553,7 @@ sections:
       determination and resilience.
     actions:
       - type: Link
-        label: See Tutorials
+        label: Extra Particulars
         altText: ''
         url: /Hobbies
         showIcon: true
