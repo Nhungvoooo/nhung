@@ -34,16 +34,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: "I’m thrilled to participate in the\_**Me & Pet Run 2024**! This event is a wonderful opportunity to celebrate the special bond between pets and their owners. Whether it’s running alongside my furry companion or simply enjoying a leisurely walk, I’m excited to embrace this day filled with fun and community spirit.\n"
-    actions:
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/IMG_0288.JPG
