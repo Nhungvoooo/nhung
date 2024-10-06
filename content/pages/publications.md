@@ -83,7 +83,7 @@ sections:
     items:
       - type: FeaturedItem
         title: The 5th International Conference on Business - ICB 2023.
-        tagline: Section 11
+        tagline: Section 1
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
