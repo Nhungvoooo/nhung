@@ -18,12 +18,11 @@ sections:
         subtitle: 'Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.'
         text: >+
           1.  **Released in the 5th International Conference on Business - ICB
-          2023.** 
+          2023.**
 
 
           2.  **Published in the Springer: Disruptive Technology and Business
-          Continuity 2024**
-          [**(Details)**](https://link.springer.com/book/10.1007/978-981-97-5452-6?sap-outbound-id=6FC73683E8D5C225A3F801BBBE6CF98C4748DF4C\&utm_source=standard\&utm_medium=email\&utm_campaign=000_LAN36_0000019083_Book+author+congrats+NEW\&utm_content=EN_34155_20240903\&mkt-key=F7A1A70A77311EEF99E1D7921D7F483A)
+          Continuity 2024.** 
 
 
           *   **eBook ISBN: 978-981-97-5452-6**
