@@ -5,6 +5,31 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Hobby
+      color: text-dark
+    subtitle: ''
+    text: >
+      I enjoy participating in races and marathons, which challenge me to set
+      and achieve personal goals while promoting a healthy lifestyle. Running is
+      not just a physical activity for me; it’s a passion that fuels my
+      determination and resilience.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/IMG_0280.jpg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Expressing myself through
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Unblock your team boost your time to production
       color: text-dark
     subtitle: Subtitle goes here
