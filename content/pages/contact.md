@@ -102,7 +102,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Contact
+slug: /Contact
 seo:
   type: Seo
   metaTitle: Careers - Demo site
