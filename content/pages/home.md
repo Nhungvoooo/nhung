@@ -630,12 +630,21 @@ sections:
       - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
-        text: |
+        text: >+
           **Phone:** 0934 092 990
+
 
           **Email:** <Nhungvo.works@gmail.com>
 
+
           **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
+
+
+          `<a href="https://www.linkedin.com/in/nhungvoooo" target="_blank"
+          style="text-decoration: none;">     <img
+          src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"
+          alt="LinkedIn Logo" style="width: 40px; height: 40px;"/> </a>`
+
         image:
           url: /images/IMG_3141.jpg
           altText: John Doe
