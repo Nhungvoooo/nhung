@@ -128,14 +128,12 @@ sections:
           the strategies organizations employ to maintain operational resilience
           in an ever-evolving business landscape. This collection aims to
           explore how disruptive technologies can be harnessed to not only
-          survive but thrive in times of change.
-
-
-          The intention to accept smart contracts based on blockchain technology
-          is gaining momentum as organizations seek to leverage its benefits. As
-          awareness grows and technological advancements continue, smart
-          contracts are poised to revolutionize traditional contract processes,
-          driving efficiency and innovation across multiple sectors.
+          survive but thrive in times of change. The intention to accept smart
+          contracts based on blockchain technology is gaining momentum as
+          organizations seek to leverage its benefits. As awareness grows and
+          technological advancements continue, smart contracts are poised to
+          revolutionize traditional contract processes, driving efficiency and
+          innovation across multiple sectors.
         image:
           type: ImageBlock
           url: /images/1725606601476.jpeg
