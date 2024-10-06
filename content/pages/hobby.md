@@ -161,8 +161,8 @@ sections:
           **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
         image:
           type: ImageBlock
-          url: /images/IMG_7800 copy.jpg
-          altText: Maria Walters
+          url: /images/IMG_3141.jpg
+          altText: John Doe
           styles:
             self:
               borderRadius: full
@@ -191,8 +191,8 @@ sections:
           **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
         image:
           type: ImageBlock
-          url: /images/IMG_3141.jpg
-          altText: John Doe
+          url: /images/IMG_7800 copy.jpg
+          altText: Maria Walters
           styles:
             self:
               borderRadius: full
