@@ -69,6 +69,17 @@
             },
             {
                 "type": "Link",
+                "label": "Hobbies",
+                "altText": "",
+                "url": "/Hobbies",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Contact",
                 "altText": "",
                 "url": "/Home",
