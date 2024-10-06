@@ -551,7 +551,16 @@ sections:
       and achieve personal goals while promoting a healthy lifestyle. Running is
       not just a physical activity for me; it’s a passion that fuels my
       determination and resilience.
-    actions: []
+    actions:
+      - type: Link
+        label: Extra Particulars
+        altText: ''
+        url: /Hobbies
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/IMG_0280.jpg
