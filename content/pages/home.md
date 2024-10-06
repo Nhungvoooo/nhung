@@ -49,7 +49,16 @@ sections:
                 - pl-0
                 - pb-0
                 - pr-0
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /Publications
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
