@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Hobby
+title: Hobbies
 sections:
   - type: GenericSection
     title:
