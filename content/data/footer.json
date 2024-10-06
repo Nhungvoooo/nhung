@@ -69,9 +69,9 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Hobbies",
                 "altText": "",
-                "url": "/Home",
+                "url": "/Hobbies",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -80,9 +80,9 @@
             },
             {
                 "type": "Link",
-                "label": "Hobbies",
+                "label": "Contact",
                 "altText": "",
-                "url": "/Hobbies",
+                "url": "/Home",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
