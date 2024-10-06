@@ -132,9 +132,7 @@ sections:
       text: Skechers Friendship Walk 2024
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: "Participate in the\_**Skechers Friendship Walk 2024.** This event is a fantastic opportunity to unite and share memorable moments with the AFR team. Together, we can make a positive impact in our community!\n"
     actions:
       - type: Button
         label: Get started
