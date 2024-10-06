@@ -464,6 +464,14 @@ sections:
       self:
         alignItems: center
   - type: CarouselSection
+    title:
+      type: TitleBlock
+      text: PUBLICATIONS
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY
@@ -471,16 +479,11 @@ sections:
         subtitle: 'Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.'
         text: >+
           1.  **Released in the 5th International Conference on Business - ICB
-          2023.**
-          [**(Details)**](https://drive.google.com/file/d/1V2D_XUAtZnVvgEoAJOKmuNAp6hWgUFn5/view)
+          2023.** 
 
 
           2.  **Published in the Springer: Disruptive Technology and Business
-          Continuity 2024**
-          [**(Details)**](https://link.springer.com/book/10.1007/978-981-97-5452-6?sap-outbound-id=6FC73683E8D5C225A3F801BBBE6CF98C4748DF4C\&utm_source=standard\&utm_medium=email\&utm_campaign=000_LAN36_0000019083_Book+author+congrats+NEW\&utm_content=EN_34155_20240903\&mkt-key=F7A1A70A77311EEF99E1D7921D7F483A)
-
-
-          *   **eBook ISBN: 978-981-97-5452-6**
+          Continuity 2024** 
 
 
           *   **Print ISBN: 978-981-97-5451-9**
@@ -502,7 +505,16 @@ sections:
                 - pl-0
                 - pb-0
                 - pr-0
-        actions: []
+        actions:
+          - type: Button
+            label: Read Article
+            altText: ''
+            url: /Publications
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
@@ -532,14 +544,6 @@ sections:
           - mr-20
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: PUBLICATIONS
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
   - type: GenericSection
     title:
       type: TitleBlock
