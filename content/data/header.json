@@ -66,7 +66,7 @@
                     "type": "Link",
                     "label": "Publication",
                     "altText": "",
-                    "url": "/",
+                    "url": "/Publications",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
