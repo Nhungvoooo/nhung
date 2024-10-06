@@ -107,8 +107,10 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      The Running Diamond Cup is more than just a race; it’s a chance to connect
+      with fellow runners, share our passion for fitness, and inspire one
+      another. I look forward to the camaraderie, motivation, and support from
+      everyone involved.
     actions:
       - type: Button
         label: Get started
