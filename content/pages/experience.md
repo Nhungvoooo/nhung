@@ -59,7 +59,7 @@ sections:
     plans:
       - type: PricingPlan
         title: HP Logistics JSC
-        price: Business Development Intern
+        price: Business Development .
         details: 'Dec, 2022 - Dec 2023'
         description: >+
           As a Business Development, I focus on identifying growth opportunities
@@ -81,13 +81,7 @@ sections:
           type: ImageBlock
           url: /images/IMG_7403_VSCO.jpg
           altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -115,13 +109,7 @@ sections:
           type: ImageBlock
           url: /images/Sua.JPG
           altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -149,13 +137,7 @@ sections:
           type: ImageBlock
           url: /images/IMG_6940.jpg
           altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
