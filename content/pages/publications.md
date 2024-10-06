@@ -91,7 +91,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Screenshot 2024-10-06 at 12.59.36.png
           altText: Featured item
           styles:
             self:
