@@ -119,7 +119,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: 'Springer: Disruptive Technology and Business Continuity 2024'
         tagline: Section 2
         subtitle: Be in good company
         text: >-
