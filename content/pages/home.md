@@ -737,6 +737,15 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+          - type: Link
+            label: Phone Call
+            altText: ''
+            url: 'tel:0934092990'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
