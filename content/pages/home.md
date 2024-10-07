@@ -671,8 +671,6 @@ sections:
           **Phone:** 0934 092 990
 
           **Email:** <Nhungvo.works@gmail.com>
-
-          ****
         image:
           url: /images/IMG_4941.jpg
           altText: Maria Walters
