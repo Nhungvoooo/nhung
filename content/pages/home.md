@@ -649,7 +649,7 @@ sections:
             showIcon: true
             icon: linkedin
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
