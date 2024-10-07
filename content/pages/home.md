@@ -678,7 +678,16 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Link
+            label: LinkedIn
+            altText: LinkedIn
+            url: 'https://www.linkedin.com/in/nhungvoooo/'
+            showIcon: true
+            icon: linkedin
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
