@@ -672,7 +672,7 @@ sections:
 
           **Email:** <Nhungvo.works@gmail.com>
 
-          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
+          ****
         image:
           url: /images/IMG_4941.jpg
           altText: Maria Walters
