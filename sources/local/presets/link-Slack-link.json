@@ -1,0 +1,19 @@
+{
+  "model": "Link",
+  "presets": [
+    {
+      "label": "Slack link",
+      "thumbnail": "images/link-slack-link.png",
+      "data": {
+        "label": "Slack",
+        "altText": "Go to Slack",
+        "url": "https://slack.com",
+        "showIcon": true,
+        "icon": "slack",
+        "iconPosition": "left",
+        "style": "secondary",
+        "elementId": "slack-link"
+      }
+    }
+  ]
+}
