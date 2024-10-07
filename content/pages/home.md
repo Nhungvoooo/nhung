@@ -660,15 +660,6 @@ sections:
             style: secondary
             elementId: ''
           - type: Link
-            label: Slack
-            altText: Go to Slack
-            url: 'https://slack.com'
-            showIcon: true
-            icon: slack
-            iconPosition: left
-            style: secondary
-            elementId: slack-link
-          - type: Link
             altText: Slack
             url: 'https://slack.com'
             showIcon: true
