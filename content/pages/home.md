@@ -698,7 +698,7 @@ sections:
         text: |+
           **Phone:** 0934 092 990
 
-          **Email:** <Nhungvo.works@gmail.com>\*\*\*\*
+          **Email:** <Nhungvo.works@gmail.com>
 
 
 
