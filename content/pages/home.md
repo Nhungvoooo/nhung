@@ -738,18 +738,18 @@ sections:
             style: secondary
             elementId: ''
           - type: Link
-            label: Phone Call
+            label: Slack
             altText: ''
-            url: 'tel:0934092990'
+            url: 'https://nhungvoooo.slack.com'
             showIcon: false
             icon: arrowRight
             iconPosition: right
             style: secondary
             elementId: ''
           - type: Link
-            label: Slack
+            label: Phone Call
             altText: ''
-            url: 'https://nhungvoooo.slack.com'
+            url: 'tel:0934092990'
             showIcon: false
             icon: arrowRight
             iconPosition: right
