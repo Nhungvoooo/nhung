@@ -648,7 +648,7 @@ sections:
           - type: Link
             label: LinkedIn
             altText: LinkedIn
-            url: www.linkedin.com/in/nhungvoooo
+            url: 'https://www.linkedin.com/in/nhungvoooo/'
             showIcon: true
             icon: linkedin
             iconPosition: left
