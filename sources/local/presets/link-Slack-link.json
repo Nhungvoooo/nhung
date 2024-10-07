@@ -3,7 +3,7 @@
   "presets": [
     {
       "label": "Slack link",
-      "thumbnail": "images/link-slack-link.png",
+      "thumbnail": "images/link-slack-icon.png",
       "data": {
         "label": "Slack",
         "altText": "Go to Slack",
