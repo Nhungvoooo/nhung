@@ -648,7 +648,7 @@ sections:
             url: 'https://www.linkedin.com/in/nhungvoooo/'
             showIcon: true
             icon: linkedin
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
         colors: bg-neutralAlt-fg-dark
