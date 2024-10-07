@@ -659,7 +659,7 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
-            label: Salck
+            label: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
