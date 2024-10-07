@@ -770,6 +770,7 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
+            label: Slack
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
