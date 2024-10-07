@@ -695,10 +695,13 @@ sections:
       - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
-        text: |
+        text: |+
           **Phone:** 0934 092 990
 
-          **Email:** <Nhungvo.works@gmail.com>****
+          **Email:** <Nhungvo.works@gmail.com>\*\*\*\*
+
+
+
         image:
           url: /images/IMG_7800 copy.jpg
           altText: Maria Walters
