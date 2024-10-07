@@ -733,6 +733,15 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
+          - type: Link
+            label: Send email
+            altText: Play
+            url: 'mailto:nhungvo.works@gmail.com'
+            showIcon: true
+            icon: mail
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
