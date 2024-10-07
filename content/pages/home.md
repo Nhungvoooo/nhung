@@ -698,9 +698,7 @@ sections:
         text: |
           **Phone:** 0934 092 990
 
-          **Email:** <Nhungvo.works@gmail.com>
-
-          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
+          **Email:** <Nhungvo.works@gmail.com>****
         image:
           url: /images/IMG_7800 copy.jpg
           altText: Maria Walters
