@@ -738,7 +738,7 @@ sections:
             style: secondary
             elementId: ''
           - type: Link
-            label: See Tutorials
+            label: Phone Call
             altText: ''
             url: 'tel:0934092990'
             showIcon: false
