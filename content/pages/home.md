@@ -747,7 +747,7 @@ sections:
             style: secondary
             elementId: ''
           - type: Link
-            label: See Tutorials
+            label: Sla
             altText: ''
             url: 'https://nhungvoooo.slack.com'
             showIcon: false
