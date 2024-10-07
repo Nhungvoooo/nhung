@@ -630,13 +630,10 @@ sections:
       - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
-        text: |+
+        text: |
           **Phone:** 0934 092 990
 
-          **Email:** <Nhungvo.works@gmail.com>
-
-          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
-
+          **Email:** <Nhungvo.works@gmail.com>****
         image:
           url: /images/IMG_3141.jpg
           altText: John Doe
@@ -674,8 +671,6 @@ sections:
           **Phone:** 0934 092 990
 
           **Email:** <Nhungvo.works@gmail.com>
-
-          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
         image:
           url: /images/IMG_4941.jpg
           altText: Maria Walters
@@ -703,9 +698,7 @@ sections:
         text: |
           **Phone:** 0934 092 990
 
-          **Email:** <Nhungvo.works@gmail.com>
-
-          **LinkedIn:** [Nhung Vo](www.linkedin.com/in/nhungvoooo)
+          **Email:** <Nhungvo.works@gmail.com>****
         image:
           url: /images/IMG_7800 copy.jpg
           altText: Maria Walters
