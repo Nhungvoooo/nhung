@@ -741,7 +741,7 @@ sections:
             elementId: ''
           - type: Link
             altText: Slack
-            url: 'https://slack.com'
+            url: 'https://slack.nhungvoooo.com'
             showIcon: true
             icon: slack
             iconPosition: left
