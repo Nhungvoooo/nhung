@@ -579,6 +579,13 @@ sections:
       type: ImageBlock
       url: /images/1725606601476.jpeg
       altText: Dope design preview
+      styles:
+        self:
+          margin:
+            - mt-14
+            - ml-14
+            - mb-14
+            - mr-14
     badge:
       type: Badge
       label: This is a badge
