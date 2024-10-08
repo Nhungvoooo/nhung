@@ -547,6 +547,50 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY
+      color: text-dark
+    subtitle: 'Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.'
+    text: >+
+      1.  **Released in the 5th International Conference on Business - ICB
+      2023.**
+
+
+      2.  **Published in the Springer: Disruptive Technology and Business
+      Continuity 2024**
+
+
+      *   **Print ISBN: 978-981-97-5451-9**
+
+    actions:
+      - type: Button
+        label: Read Article
+        url: /Publications
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/1725606601476.jpeg
+      altText: Dope design preview
+      styles:
+        self:
+          margin:
+            - mt-36
+            - ml-36
+            - mb-36
+            - mr-36
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Hobbies
       color: text-dark
     subtitle: ''
@@ -648,6 +692,22 @@ sections:
             url: 'https://www.linkedin.com/in/nhungvoooo/'
             showIcon: true
             icon: linkedin
+            iconPosition: left
+            style: secondary
+            elementId: ''
+          - type: Link
+            altText: Slack
+            url: 'https://slack.com'
+            showIcon: true
+            icon: slack
+            iconPosition: left
+            style: secondary
+            elementId: ''
+          - type: Link
+            altText: Slack
+            url: 'https://slack.com'
+            showIcon: true
+            icon: slack
             iconPosition: left
             style: secondary
             elementId: ''
@@ -770,6 +830,7 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
+            label: Slack
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
