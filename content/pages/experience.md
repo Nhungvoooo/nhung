@@ -15,14 +15,7 @@ sections:
       with one step, and every step in your work journey shapes who you
       become."</div>
 
-    actions:
-      - label: Below
-        url: /
-        icon: chevronDown
-        iconPosition: right
-        style: secondary
-        type: Button
-        showIcon: true
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
