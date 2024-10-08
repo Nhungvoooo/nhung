@@ -739,15 +739,6 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
-          - type: Link
-            altText: Slack
-            url: 'https://nhungvoooo.slack.com'
-            showIcon: false
-            icon: ''
-            iconPosition: right
-            style: secondary
-            elementId: ''
-            label: ⌗Slack
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
