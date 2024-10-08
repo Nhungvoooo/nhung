@@ -549,7 +549,7 @@ sections:
       type: TitleBlock
       text: INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY
       color: text-dark
-    subtitle: Be in good company
+    subtitle: 'Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.'
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
