@@ -743,7 +743,7 @@ sections:
             altText: Slack
             url: 'https://nhungvoooo.slack.com'
             showIcon: false
-            icon: play
+            icon: ''
             iconPosition: right
             style: secondary
             elementId: ''
