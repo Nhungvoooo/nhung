@@ -724,15 +724,6 @@ sections:
             style: secondary
             elementId: ''
           - type: Link
-            label: Phone Call
-            altText: ''
-            url: 'tel:0934092990'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-          - type: Link
             altText: Slack
             url: 'https://slack.com'
             showIcon: true
