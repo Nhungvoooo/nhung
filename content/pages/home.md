@@ -563,7 +563,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Read Article
         url: /
         icon: arrowRight
         iconPosition: right
