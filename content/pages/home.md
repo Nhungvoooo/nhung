@@ -496,9 +496,8 @@ sections:
       text: PUBLICATIONS
       color: text-light
     subtitle: >-
-      INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN
-      TECHNOLOGYKeywords: Logistic Domain, Smart Contract, Blockchain,
-      Technology.
+      INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY
+      Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.
     text: >+
       1.  **Released in the 5th International Conference on Business - ICB
       2023.**
