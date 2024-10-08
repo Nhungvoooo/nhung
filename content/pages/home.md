@@ -494,7 +494,7 @@ sections:
     title:
       type: TitleBlock
       text: >-
-        PUBLICATIONS- INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN
+        PUBLICATIONS INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN
         TECHNOLOGY
       color: text-light
     subtitle: 'Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.'
