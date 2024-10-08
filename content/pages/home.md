@@ -696,8 +696,7 @@ sections:
       - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
-        text: |
-          **Phone:** 0934 092 990
+        text: "\U0001F4DE  **Phone:** 0934 092 990\n\n\U0001F4F1 [**Whatsapp**](https://wa.link/tpv45j)\n\n"
         image:
           url: /images/IMG_7800 copy.jpg
           altText: Maria Walters
