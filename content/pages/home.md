@@ -579,10 +579,6 @@ sections:
             - ml-36
             - mb-36
             - mr-36
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-dark-fg-light
     styles:
       self:
