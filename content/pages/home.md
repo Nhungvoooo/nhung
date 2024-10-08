@@ -464,13 +464,6 @@ sections:
       self:
         alignItems: center
   - type: CarouselSection
-    title:
-      type: TitleBlock
-      text: PUBLICATIONS
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: ''
     items: []
     variant: dots-nav
