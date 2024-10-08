@@ -662,15 +662,7 @@ sections:
       - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
-        text: |+
-          **Phone:** 0934 092 990
-
-          **Email:** <Nhungvo.works@gmail.com>
-
-
-
-
-
+        text: "\U0001F4DE  **Phone:** 0934 092 990\n\n\U0001F4F1 [**Whatsapp**](https://wa.link/tpv45j)\n"
         image:
           url: /images/IMG_4941.jpg
           altText: Maria Walters
@@ -704,8 +696,7 @@ sections:
       - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
-        text: |
-          **Phone:** 0934 092 990
+        text: "\U0001F4DE  **Phone:** 0934 092 990\n\n\U0001F4F1 [**Whatsapp**](https://wa.link/tpv45j)\n\n"
         image:
           url: /images/IMG_7800 copy.jpg
           altText: Maria Walters
@@ -724,21 +715,12 @@ sections:
             style: secondary
             elementId: ''
           - type: Link
-            label: Send email
+            label: Send Email
             altText: Play
             url: 'mailto:nhungvo.works@gmail.com'
             showIcon: true
             icon: mail
-            iconPosition: right
-            style: secondary
-            elementId: ''
-          - type: Link
-            label: Phone Call
-            altText: ''
-            url: 'tel:0934092990'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
           - type: Link
