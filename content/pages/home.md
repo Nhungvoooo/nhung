@@ -582,10 +582,10 @@ sections:
       styles:
         self:
           margin:
-            - mt-32
-            - ml-32
-            - mb-32
-            - mr-32
+            - mt-36
+            - ml-36
+            - mb-36
+            - mr-36
     badge:
       type: Badge
       label: This is a badge
