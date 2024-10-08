@@ -77,6 +77,49 @@ sections:
           - mr-20
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: PUBLICATIONS
+      color: text-light
+    subtitle: INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY
+    text: >+
+      1.  **Released in the 5th International Conference on Business - ICB
+      2023.**
+
+
+      2.  **Published in the Springer: Disruptive Technology and Business
+      Continuity 2024**
+
+
+      *   **Print ISBN: 978-981-97-5451-9**
+
+
+      *Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.*
+
+    actions:
+      - type: Button
+        label: Read Article
+        url: /Publications
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/1725606601476.jpeg
+      altText: Dope design preview
+      styles:
+        self:
+          margin:
+            - mt-36
+            - ml-36
+            - mb-36
+            - mr-36
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: CarouselSection
     items:
       - type: FeaturedItem
