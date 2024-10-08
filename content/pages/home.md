@@ -583,7 +583,7 @@ sections:
       type: Badge
       label: This is a badge
       color: text-primary
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
