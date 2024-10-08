@@ -696,7 +696,7 @@ sections:
       - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
-        text: "\U0001F4DE  **Phone:** 0934 092 990\n\n\U0001F4F1 [**Whatsapp**](https://wa.link/tpv45j)\n\n"
+        text: "\U0001F4DE  **Phone:** 0934 092 990\n\n\U0001F4F1 [**Whatsapp**](https://wa.link/tpv45j)\n\n****\n"
         image:
           url: /images/IMG_7800 copy.jpg
           altText: Maria Walters
@@ -741,13 +741,13 @@ sections:
             elementId: ''
           - type: Link
             altText: Slack
-            url: 'https://slack.com'
-            showIcon: true
-            icon: slack
-            iconPosition: left
+            url: 'https://nhungvoooo.slack.com'
+            showIcon: false
+            icon: ''
+            iconPosition: right
             style: secondary
             elementId: ''
-            label: Slack
+            label: ⌗Slack
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
