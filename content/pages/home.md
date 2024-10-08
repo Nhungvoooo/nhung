@@ -614,7 +614,7 @@ sections:
         subtitle: 'Based on HCMC, Vietnam'
         text: "\U0001F4DE  **Phone:** 0934 092 990\n\n\U0001F4F1 [**Whatsapp**](https://wa.link/tpv45j)\n\n\n\n"
         image:
-          url: /images/IMG_7800 copy.jpg
+          url: /images/IMG_3141.jpg
           altText: Maria Walters
           styles:
             self:
