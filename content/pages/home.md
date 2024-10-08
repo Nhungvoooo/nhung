@@ -715,7 +715,7 @@ sections:
             style: secondary
             elementId: ''
           - type: Link
-            label: Send email
+            label: Send Email
             altText: Play
             url: 'mailto:nhungvo.works@gmail.com'
             showIcon: true
