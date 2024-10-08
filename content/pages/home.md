@@ -612,7 +612,7 @@ sections:
       - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
-        text: "\U0001F4DE  **Phone:** 0934 092 990\n\n\U0001F4F1 **Whatsapp** \n"
+        text: "\U0001F4DE  **Phone:** 0934 092 990\n\n\U0001F4F1 [**Whatsapp**](https://wa.link/tpv45j)\n"
         image:
           url: /images/IMG_3141.jpg
           altText: John Doe
