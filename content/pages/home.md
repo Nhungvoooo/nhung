@@ -720,7 +720,7 @@ sections:
             url: 'mailto:nhungvo.works@gmail.com'
             showIcon: true
             icon: mail
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
           - type: Link
