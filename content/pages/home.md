@@ -507,6 +507,9 @@ sections:
 
       *   **Print ISBN: 978-981-97-5451-9**
 
+
+      *Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.*
+
     actions:
       - type: Button
         label: Read Article
