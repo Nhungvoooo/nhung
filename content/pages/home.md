@@ -742,7 +742,7 @@ sections:
           - type: Link
             altText: Slack
             url: 'https://nhungvoooo.slack.com'
-            showIcon: true
+            showIcon: false
             icon: play
             iconPosition: right
             style: secondary
