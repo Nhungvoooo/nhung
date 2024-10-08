@@ -726,7 +726,7 @@ sections:
           - type: Link
             label: Instagram
             altText: Instagram
-            url: /
+            url: 'https://www.instagram.com/nhungvoooo/'
             showIcon: true
             icon: instagram
             iconPosition: left
