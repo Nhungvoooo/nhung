@@ -747,7 +747,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-            label: ⌗ Slack
+            label: '⌗ Slack :slack:'
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
