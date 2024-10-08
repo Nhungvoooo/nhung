@@ -564,7 +564,7 @@ sections:
     actions:
       - type: Button
         label: Read Article
-        url: /
+        url: /Publications
         icon: arrowRight
         iconPosition: right
         style: secondary
