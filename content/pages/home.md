@@ -731,14 +731,6 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
-          - type: Link
-            altText: Slack
-            url: 'https://slack.com'
-            showIcon: true
-            icon: slack
-            iconPosition: left
-            style: secondary
-            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
