@@ -1,0 +1,70 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Publications",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Publications"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "PUBLICATIONS",
+                    "color": "text-light",
+                    "styles": null
+                },
+                "subtitle": "INTENTION TO ACCEPT SMART CONTRACTS BASED ON BLOCKCHAIN TECHNOLOGY",
+                "text": "1.  **Released in the 5th International Conference on Business - ICB 2023.**\n\n2.  **Published in the Springer: Disruptive Technology and Business Continuity 2024**\n\n*   **Print ISBN: 978-981-97-5451-9**\n\n*Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.*\n\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Read Article",
+                        "altText": null,
+                        "url": "/Publications",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    }
+                ],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/1725606601476.jpeg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Dope design preview",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "margin": [
+                                "mt-36",
+                                "ml-36",
+                                "mb-36",
+                                "mr-36"
+                            ]
+                        }
+                    }
+                },
+                "badge": null,
+                "elementId": null,
+                "colors": "bg-dark-fg-light",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row-reverse"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-publications-e36e.png"
+        }
+    ]
+}
