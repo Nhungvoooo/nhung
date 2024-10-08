@@ -612,10 +612,7 @@ sections:
       - title: Let's Collaborate Together
         tagline: CONTACT ME
         subtitle: 'Based on HCMC, Vietnam'
-        text: |
-          **Phone:** 0934 092 990
-
-          **Email:** <Nhungvo.works@gmail.com>****
+        text: "\U0001F4DE **Phone:** 0934 092 990\n"
         image:
           url: /images/IMG_3141.jpg
           altText: John Doe
