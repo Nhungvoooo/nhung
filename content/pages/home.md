@@ -22,16 +22,7 @@ sections:
       where I can demonstrate my enthusiastic personality and develop my
       career.*
 
-    actions:
-      - label: Download Resume
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/Po.01.jpg
       altText: Unblock your team boost your time to production preview
