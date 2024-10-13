@@ -441,7 +441,9 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/1715852439811.jpg
+      url: >-
+        /images/(Thẻ) chưa có tên (Thẻ quà tặng) (Nhãn dán (Vuông))
+        (1).png
       altText: Fun feature preview
       styles:
         self:
@@ -451,10 +453,10 @@ sections:
             - pb-0
             - pr-0
           margin:
-            - mt-36
-            - ml-36
-            - mb-36
-            - mr-36
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
     badge:
       type: Badge
       label: ''
