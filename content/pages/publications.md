@@ -25,7 +25,9 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/1725606601476.jpeg
+      url: >-
+        /images/(Thẻ) chưa có tên (Thẻ quà tặng) (Nhãn dán
+        (Vuông)).png
       altText: Dope design preview
       styles:
         self:
