@@ -117,7 +117,7 @@ sections:
         text: |
           Salesforce Administrator/ Four Start Ranger
         image:
-          url: /images/Anh logoo trailhead.png
+          url: /images/images.jpeg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
