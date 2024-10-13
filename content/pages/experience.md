@@ -126,13 +126,33 @@ sections:
         price: Salesforce Solutions Engineer
         details: 'Nov, 2023 - Presents'
         description: >+
-          *   Collaborate with business stakeholders to analyze requirements and
-          translate them into effective Salesforce solutions that align with
-          strategic goals.
+          *   Architected and delivered custom Salesforce solutions for a
+          portfolio of group clients in diverse domains, to accelerate their
+          business strategies and a path to value resulting in a 30% increase in
+          customer satisfaction ratings. 
 
 
-          *   Design, configure, and customize Salesforce applications to
-          optimize user experience and operational efficiency.
+          <!---->
+
+
+          *   Orchestrate and generate lead cross-functional solutions guides,
+          and align the Scope of work to the opportunity strategy resulting in a
+          35% increase in new project wins.
+
+
+          *   Conducted in-depth Salesforce application demonstrations and
+          technical workshops for key stakeholders, approaching more than 35% in
+          upsell opportunities after.
+
+
+          *   Provided technical expertise and guidance to customers during the
+          pre-sales process, resulting in a 40% increase in successful
+          Salesforce application demonstrations.
+
+
+          *   Developed and implemented integration strategies with complex
+          enterprise software systems with Salesforce applications, resulting in
+          a seamless workflow and increased operational efficiency.
 
         features: []
         image:
