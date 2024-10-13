@@ -85,7 +85,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/Cấp 3.jpg
+          url: /images/310740490_555933893206600_795209709145068761_n.jpg
           styles:
             self:
               borderRadius: x-large
