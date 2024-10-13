@@ -106,22 +106,22 @@ sections:
           <!---->
 
 
-          *   Full Lifecycle Management: Seamlessly initiate and manage the
+          *   **Full Lifecycle Management:** Seamlessly initiate and manage the
           complete lifecycle of shipping packages, ensuring a smooth experience
           from pickup to final delivery.
 
 
-          *   Real-Time Shipment Tracking: Monitor shipments’s travel time in
-          real-time, providing transparency and peace of mind throughout the
+          *   **Real-Time Shipment Tracking:** Monitor shipments’s travel time
+          in real-time, providing transparency and peace of mind throughout the
           shipping journey.
 
 
-          *   Customs Clearance Support: Simplify the customs clearance process
-          with integrated support, helping to expedite shipments and reduce
-          delays.
+          *   **Customs Clearance Support:** Simplify the customs clearance
+          process with integrated support, helping to expedite shipments and
+          reduce delays.
 
 
-          *   Domain: Logistics, Air cargo Service, Customer Clearance.
+          *   **Domain:** Logistics, Air cargo Service, Customer Clearance.
 
         features: []
         image:
