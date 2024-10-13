@@ -62,12 +62,21 @@ sections:
           and market demands.
 
 
-          *   Conduct comprehensive market research to identify new business
-          opportunities and emerging trends in the logistics industry.
+          *   Responsible for group client business development on import and
+          export freight solutions, including warehouse, 3PL, and domestic
+          distribution services that resulted in a 20% increase in customer
+          engagement. 
 
 
-          *   Develop strong relationships with clients, suppliers, and
-          stakeholders to enhance collaboration and drive business growth.
+          *   Planned and executed sales department improvements, updating the
+          companies through marketing, cost analysis, presentations, and
+          territory establishment. Successfully increased sales in team
+          collaboration by 25% and customer base by 20% through effective
+          account management and targeted marketing campaigns.
+
+
+          *   Analyzed customer data, and lead sources to identify trends and
+          develop targeted marketing campaigns to drive sales growth.
 
         features: []
         image:
@@ -89,13 +98,30 @@ sections:
         price: "Business Analyst\_ \_ \_ \_ ."
         details: Jan 2024 - Presents
         description: >+
-          *   Conduct in-depth analysis of logistics operations to identify
-          inefficiencies and recommend actionable solutions that improve
-          performance and reduce costs. 
+          Build a logistics solution to facilitate air cargo shipping services
+          between Vietnam and the United States by streamlining the entire
+          shipping process, from initiation to delivery with the key feature.
 
 
-          *   Collaborate with cross-functional teams to gather and document
-          business requirements, ensuring alignment with organizational goals.
+          <!---->
+
+
+          *   **Full Lifecycle Management:** Seamlessly initiate and manage the
+          complete lifecycle of shipping packages, ensuring a smooth experience
+          from pickup to final delivery.
+
+
+          *   **Real-Time Shipment Tracking:** Monitor shipments’s travel time
+          in real-time, providing transparency and peace of mind throughout the
+          shipping journey.
+
+
+          *   **Customs Clearance Support:** Simplify the customs clearance
+          process with integrated support, helping to expedite shipments and
+          reduce delays.
+
+
+          *   **Domain:** Logistics, Air cargo Service, Customer Clearance.
 
         features: []
         image:
@@ -117,13 +143,33 @@ sections:
         price: Salesforce Solutions Engineer
         details: 'Nov, 2023 - Presents'
         description: >+
-          *   Collaborate with business stakeholders to analyze requirements and
-          translate them into effective Salesforce solutions that align with
-          strategic goals.
+          As a Salesforce Solutions Engineer, I've architected and delivered
+          custom Salesforce solutions for a portfolio of group clients in
+          diverse domains, to accelerate their business strategies and a path to
+          value resulting in a 30% increase in customer satisfaction ratings.
 
 
-          *   Design, configure, and customize Salesforce applications to
-          optimize user experience and operational efficiency.
+          <!---->
+
+
+          *   Orchestrate and generate lead cross-functional solutions guides,
+          and align the Scope of work to the opportunity strategy resulting in a
+          35% increase in new project wins.
+
+
+          *   Conducted in-depth Salesforce application demonstrations and
+          technical workshops for key stakeholders, approaching more than 35% in
+          upsell opportunities after.
+
+
+          *   Provided technical expertise and guidance to customers during the
+          pre-sales process, resulting in a 40% increase in successful
+          Salesforce application demonstrations.
+
+
+          *   Developed and implemented integration strategies with complex
+          enterprise software systems with Salesforce applications, resulting in
+          a seamless workflow and increased operational efficiency.
 
         features: []
         image:
