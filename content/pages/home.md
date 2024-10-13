@@ -85,7 +85,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/Cấp 3.jpg
+          url: /images/310740490_555933893206600_795209709145068761_n.jpg
           styles:
             self:
               borderRadius: x-large
@@ -117,7 +117,7 @@ sections:
         text: |
           Salesforce Administrator/ Four Start Ranger
         image:
-          url: /images/Anh logoo trailhead.png
+          url: /images/2021-Ranger_Ranks (1)_Ranger_FourStar.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
