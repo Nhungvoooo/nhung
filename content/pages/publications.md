@@ -22,13 +22,7 @@ sections:
 
       *Keywords: Logistic Domain, Smart Contract, Blockchain, Technology.*
 
-    actions:
-      - type: Button
-        label: Read Article
-        url: /Publications
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/1725606601476.jpeg
