@@ -98,10 +98,9 @@ sections:
         price: "Business Analyst\_ \_ \_ \_ ."
         details: Jan 2024 - Presents
         description: >+
-          *   Build a logistics solution to facilitate air cargo shipping
-          services between Vietnam and the United States by streamlining the
-          entire shipping process, from initiation to delivery with the key
-          feature.<!---->
+          Build a logistics solution to facilitate air cargo shipping services
+          between Vietnam and the United States by streamlining the entire
+          shipping process, from initiation to delivery with the key feature.
 
 
           <!---->
