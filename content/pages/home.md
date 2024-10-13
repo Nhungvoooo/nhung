@@ -17,10 +17,9 @@ sections:
       strong focus on user needs. Possesses strong critical thinking, and
       teamwork with strives for growth, facilitates product development to
       success, and is a team influencer. With a blend of creativity and a can-do
-      attitude, I am excited to explore new opportunities that involve Product
-      Owner, Product/Project Management, and a professional working environment
-      where I can demonstrate my enthusiastic personality and develop my
-      career.*
+      attitude, I am excited to explore new opportunities, and a professional
+      working environment where I can demonstrate my enthusiastic personality
+      and develop my career.*
 
     actions: []
     media:
