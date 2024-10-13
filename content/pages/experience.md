@@ -62,12 +62,21 @@ sections:
           and market demands.
 
 
-          *   Conduct comprehensive market research to identify new business
-          opportunities and emerging trends in the logistics industry.
+          *   Responsible for group client business development on import and
+          export freight solutions, including warehouse, 3PL, and domestic
+          distribution services that resulted in a 20% increase in customer
+          engagement. 
 
 
-          *   Develop strong relationships with clients, suppliers, and
-          stakeholders to enhance collaboration and drive business growth.
+          *   Planned and executed sales department improvements, updating the
+          companies through marketing, cost analysis, presentations, and
+          territory establishment. Successfully increased sales in team
+          collaboration by 25% and customer base by 20% through effective
+          account management and targeted marketing campaigns.
+
+
+          *   Analyzed customer data, and lead sources to identify trends and
+          develop targeted marketing campaigns to drive sales growth.
 
         features: []
         image:
