@@ -98,13 +98,30 @@ sections:
         price: "Business Analyst\_ \_ \_ \_ ."
         details: Jan 2024 - Presents
         description: >+
-          *   Conduct in-depth analysis of logistics operations to identify
-          inefficiencies and recommend actionable solutions that improve
-          performance and reduce costs. 
+          *   A logistics solution to facilitate air cargo shipping services
+          between Vietnam and the United States by streamlining the entire
+          shipping process, from initiation to delivery with the key feature. 
 
 
-          *   Collaborate with cross-functional teams to gather and document
-          business requirements, ensuring alignment with organizational goals.
+          <!---->
+
+
+          *   Full Lifecycle Management: Seamlessly initiate and manage the
+          complete lifecycle of shipping packages, ensuring a smooth experience
+          from pickup to final delivery.
+
+
+          *   Real-Time Shipment Tracking: Monitor shipments’s travel time in
+          real-time, providing transparency and peace of mind throughout the
+          shipping journey.
+
+
+          *   Customs Clearance Support: Simplify the customs clearance process
+          with integrated support, helping to expedite shipments and reduce
+          delays.
+
+
+          *   Domain: Logistics, Air cargo Service, Customer Clearance.
 
         features: []
         image:
