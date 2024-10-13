@@ -143,10 +143,10 @@ sections:
         price: Salesforce Solutions Engineer
         details: 'Nov, 2023 - Presents'
         description: >+
-          *   Architected and delivered custom Salesforce solutions for a
-          portfolio of group clients in diverse domains, to accelerate their
-          business strategies and a path to value resulting in a 30% increase in
-          customer satisfaction ratings.
+          As a Salesforce Solutions Engineer, I've architected and delivered
+          custom Salesforce solutions for a portfolio of group clients in
+          diverse domains, to accelerate their business strategies and a path to
+          value resulting in a 30% increase in customer satisfaction ratings.
 
 
           <!---->
