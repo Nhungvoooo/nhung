@@ -100,7 +100,7 @@ sections:
         description: >+
           *   A logistics solution to facilitate air cargo shipping services
           between Vietnam and the United States by streamlining the entire
-          shipping process, from initiation to delivery with the key feature. 
+          shipping process, from initiation to delivery with the key feature.
 
 
           <!---->
