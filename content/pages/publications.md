@@ -32,10 +32,10 @@ sections:
       styles:
         self:
           margin:
-            - mt-36
-            - ml-36
-            - mb-36
-            - mr-36
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
     colors: bg-dark-fg-light
     styles:
       self:
