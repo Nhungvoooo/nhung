@@ -89,16 +89,18 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/1715852439811.jpg
+      url: >-
+        /images/(Thẻ) chưa có tên (Thẻ quà tặng) (Nhãn dán (Vuông))
+        (1).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       styles:
         self:
           margin:
-            - mt-24
-            - ml-24
-            - mb-24
-            - mr-24
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
     badge:
       type: Badge
       label: Member of
