@@ -89,7 +89,9 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/1715852439811.jpg
+      url: >-
+        /images/(Thẻ) chưa có tên (Thẻ quà tặng) (Nhãn dán (Vuông))
+        (1).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       styles:
