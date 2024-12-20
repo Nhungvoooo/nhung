@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Salesforce Certified Administrator (SCA)11
+title: Salesforce Certified AI Associate
 date: '2024-10-25'
 author: content/data/person2.json
 excerpt: ''
