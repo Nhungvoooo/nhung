@@ -12,6 +12,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/life-of-our-development-team1.md
+      - content/pages/blog/11life-of-our-development-team1.md
       - >-
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
       - content/pages/blog/five-tips-for-starting-a-startup.md
