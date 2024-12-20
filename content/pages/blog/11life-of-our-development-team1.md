@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Salesforce Certified AI Associate
-date: '2024-10-02'
+date: '2024-11-29'
 author: content/data/person2.json
 excerpt: ''
 featuredImage:
