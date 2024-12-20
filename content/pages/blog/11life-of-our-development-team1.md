@@ -6,7 +6,7 @@ author: content/data/person2.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Cert5124240_Administrator_20241025.png
+  url: /images/Salesforce Certified AI Associate.jpg
   altText: Thumbnail
   styles:
     self:
