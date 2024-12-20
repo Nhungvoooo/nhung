@@ -1,0 +1,63 @@
+{
+    "model": "PostLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Achi01",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Cert"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Salesforce Certified Administrator (SCA)",
+                "date": "2024-10-25",
+                "author": {
+                    "$$ref": "content/data/person2.json",
+                    "$$type": "Person"
+                },
+                "excerpt": "",
+                "featuredImage": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Cert5124240_Administrator_20241025.png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Thumbnail",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "medium"
+                        }
+                    }
+                },
+                "bottomSections": [],
+                "slug": "life-of-our-development-team1",
+                "isFeatured": false,
+                "isDraft": null,
+                "seo": {
+                    "$$type": "Seo",
+                    "metaTitle": "A Day in the Life of Our Development Team",
+                    "metaDescription": "You can add the excerpt and main keywords of your blog post here.",
+                    "addTitleSuffix": null,
+                    "socialImage": {
+                        "$$ref": "stackbit_asset_id:static:public/images/abstract-feature3.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "metaTags": []
+                },
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "flexDirection": "col"
+                    }
+                },
+                "markdown_content": "As a certified Salesforce Administrator, I now have the skills to effectively manage and optimize Salesforce applications. This includes:\n\n*   **User Management:** Streamlining user accounts and permissions to ensure seamless access.\n\n*   **Data Integrity:** Maintaining high data quality and security standards.\n\n*   **Customization:** Tailoring Salesforce features to meet specific business needs.\n\n*   **Automation:** Implementing processes that enhance efficiency through workflows and automation tools.\n\n*   **Reporting:** Creating insightful reports and dashboards that empower decision-making.\n\n![](/images/Cert5124240_Administrator_20241025.png)\n"
+            },
+            "thumbnail": "images/post-layout-achi01-aef3.png"
+        }
+    ]
+}
