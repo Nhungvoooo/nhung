@@ -95,7 +95,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: 'Vietlink Global, LLC'
-        price: "Business Analyst\_ \_ \_ \_ ."
+        price: Salesforce Solutions Engineer
         details: Jan 2024 - Presents
         description: >+
           Build a logistics solution to facilitate air cargo shipping services
