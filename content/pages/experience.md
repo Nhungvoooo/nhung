@@ -140,7 +140,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: AFR Cloud Computing
-        price: Salesforce Solutions Engineer
+        price: Salesforce Customer Success Executive
         details: 'Nov, 2023 - Presents'
         description: >+
           As a Salesforce Solutions Engineer, I've architected and delivered
