@@ -155,14 +155,14 @@ sections:
           <!---->
 
 
-          *   Orchestrate and generate lead cross-functional solutions guides,
-          and align the Scope of work to the opportunity strategy resulting in a
-          35% increase in new project wins.
+          *   Managed customer onboarding, training, and adoption strategies to
+          ensure seamless integration and measurable value realization,
+          increasing product utilization by over 40% within the first 6 months.
 
 
-          *   Conducted in-depth Salesforce application demonstrations and
-          technical workshops for key stakeholders, approaching more than 35% in
-          upsell opportunities after.
+          *   Identified opportunities for account growth, up-sell, and
+          cross-sell based on evolving customer goals and platform usage
+          insights.
 
 
           *   Provided technical expertise and guidance to customers during the
