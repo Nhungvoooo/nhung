@@ -52,7 +52,7 @@ sections:
     plans:
       - type: PricingPlan
         title: HP Logistics JSC
-        price: "Business Development Executive\_ \_ \_ \_ \_ \_ \_ \_ \_ ."
+        price: "Business Development Executive\_ \_ \_."
         details: 'Dec, 2022 - Dec 2023'
         description: >+
           As a Business Development, I focus on identifying growth opportunities
