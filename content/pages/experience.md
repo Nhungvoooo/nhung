@@ -107,14 +107,16 @@ sections:
           <!---->
 
 
-          *   Orchestrate and generate lead cross-functional solutions guides,
-          and align the Scope of work to the opportunity strategy resulting in a
-          35% increase in new project wins.
+          *   Engineered integration strategies within complex enterprise
+          software systems, enhancing data management capabilities to maximize
+          ROI and engagement by 15%; streamlining workflows & implementing
+          automation tools to exceed campaign performance goals.
 
 
           *   Conducted in-depth Salesforce application demonstrations and
-          technical workshops for key stakeholders, approaching more than 35% in
-          upsell opportunities after.
+          technical workshops for key stakeholders, achieving more than 25%in
+          lead generation by optimizing funnels to convert prospects
+          effectively.
 
 
           *   Provided technical expertise and guidance to customers during the
