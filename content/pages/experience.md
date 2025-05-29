@@ -124,9 +124,9 @@ sections:
           Salesforce application demonstrations.
 
 
-          *   Developed and implemented integration strategies with complex
-          enterprise software systems with Salesforce applications, resulting in
-          a seamless workflow and increased operational efficiency.
+          *   Executed strategic data analytics initiatives with key performance
+          indicators (ROI, Conversion Rate), leading to a refined Statement of
+          Work that increased system functionality.
 
         features: []
         image:
