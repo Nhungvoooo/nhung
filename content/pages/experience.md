@@ -95,7 +95,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: AFR Cloud Computing
-        price: Salesforce Solutions Engineer
+        price: "Salesforce Solutions\_ \_ Engineer\_ \_ \_ ."
         details: Jan 2024 - Presents
         description: >+
           As a Salesforce Solutions Engineer, I've architected and delivered
