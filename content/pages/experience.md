@@ -94,7 +94,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: 'Vietlink Global, LLC'
+        title: AFR Cloud Computing
         price: Salesforce Solutions Engineer
         details: Jan 2024 - Presents
         description: >+
