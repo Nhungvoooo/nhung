@@ -98,19 +98,15 @@ sections:
         price: "Salesforce Solutions\_ \_ Engineer\_ \_ \_ ."
         details: Jan 2024 - Presents
         description: >+
-          As a Salesforce Solutions Engineer, I've architected and delivered
-          custom Salesforce solutions for a portfolio of group clients in
-          diverse domains, to accelerate their business strategies and a path to
-          value resulting in a 20% increase in customer satisfaction ratings.
-
-
-          <!---->
-
-
-          *   Engineered integration strategies within complex enterprise
-          software systems, enhancing data management capabilities to maximize
-          ROI and engagement by 15%; streamlining workflows & implementing
-          automation tools to exceed campaign performance goals.
+          <div style="text-align: left">As a Salesforce Solutions Engineer, I've
+          architected and delivered custom Salesforce solutions for a portfolio
+          of group clients in diverse domains, to accelerate their business
+          strategies and a path to value resulting in a 20% increase in customer
+          satisfaction ratings.<!---->*   Engineered integration strategies
+          within complex enterprise software systems, enhancing data management
+          capabilities to maximize ROI and engagement by 15%; streamlining
+          workflows & implementing automation tools to exceed campaign
+          performance goals.
 
 
           *   Conducted in-depth Salesforce application demonstrations and
@@ -126,7 +122,7 @@ sections:
 
           *   Executed strategic data analytics initiatives with key performance
           indicators (ROI, Conversion Rate), leading to a refined Statement of
-          Work that increased system functionality.
+          Work that increased system functionality.</div>
 
         features: []
         image:
