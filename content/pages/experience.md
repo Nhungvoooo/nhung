@@ -102,11 +102,13 @@ sections:
           architected and delivered custom Salesforce solutions for a portfolio
           of group clients in diverse domains, to accelerate their business
           strategies and a path to value resulting in a 20% increase in customer
-          satisfaction ratings.<!---->*   Engineered integration strategies
-          within complex enterprise software systems, enhancing data management
-          capabilities to maximize ROI and engagement by 15%; streamlining
-          workflows & implementing automation tools to exceed campaign
-          performance goals.
+          satisfaction ratings.*   </div>
+
+
+          *   Engineered integration strategies within complex enterprise
+          software systems, enhancing data management capabilities to maximize
+          ROI and engagement by 15%; streamlining workflows & implementing
+          automation tools to exceed campaign performance goals.
 
 
           *   Conducted in-depth Salesforce application demonstrations and
