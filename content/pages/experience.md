@@ -102,7 +102,7 @@ sections:
           architected and delivered custom Salesforce solutions for a portfolio
           of group clients in diverse domains, to accelerate their business
           strategies and a path to value resulting in a 20% increase in customer
-          satisfaction ratings.*   </div>
+          satisfaction ratings.</div>
 
 
           *   Engineered integration strategies within complex enterprise
