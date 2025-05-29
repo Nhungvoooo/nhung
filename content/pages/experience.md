@@ -98,30 +98,33 @@ sections:
         price: Salesforce Solutions Engineer
         details: Jan 2024 - Presents
         description: >+
-          Build a logistics solution to facilitate air cargo shipping services
-          between Vietnam and the United States by streamlining the entire
-          shipping process, from initiation to delivery with the key feature.
+          As a Salesforce Solutions Engineer, I've architected and delivered
+          custom Salesforce solutions for a portfolio of group clients in
+          diverse domains, to accelerate their business strategies and a path to
+          value resulting in a 30% increase in customer satisfaction ratings.
 
 
           <!---->
 
 
-          *   **Full Lifecycle Management:** Seamlessly initiate and manage the
-          complete lifecycle of shipping packages, ensuring a smooth experience
-          from pickup to final delivery.
+          *   Orchestrate and generate lead cross-functional solutions guides,
+          and align the Scope of work to the opportunity strategy resulting in a
+          35% increase in new project wins.
 
 
-          *   **Real-Time Shipment Tracking:** Monitor shipments’s travel time
-          in real-time, providing transparency and peace of mind throughout the
-          shipping journey.
+          *   Conducted in-depth Salesforce application demonstrations and
+          technical workshops for key stakeholders, approaching more than 35% in
+          upsell opportunities after.
 
 
-          *   **Customs Clearance Support:** Simplify the customs clearance
-          process with integrated support, helping to expedite shipments and
-          reduce delays.
+          *   Provided technical expertise and guidance to customers during the
+          pre-sales process, resulting in a 40% increase in successful
+          Salesforce application demonstrations.
 
 
-          *   **Domain:** Logistics, Air cargo Service, Customer Clearance.
+          *   Developed and implemented integration strategies with complex
+          enterprise software systems with Salesforce applications, resulting in
+          a seamless workflow and increased operational efficiency.
 
         features: []
         image:
