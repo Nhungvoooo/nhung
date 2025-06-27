@@ -31,6 +31,15 @@
             "type": "Link"
         },
         {
+            "label": "Experiences",
+            "altText": "Experience",
+            "url": "/Experience",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "label": "More",
             "altText": "Dropdown",
             "links": [
@@ -89,15 +98,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "label": "Experiences",
-            "altText": "Experience",
-            "url": "/Experience",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [
